@@ -1,0 +1,114 @@
+﻿:root {
+    --light: white;
+    --dark: black;
+    --primary: #102B3C;
+    --secondary: #EC1C24;
+    --shade: rgba(125, 125, 125, 0.5);
+    --shadow: 4px 4px 10px rgba(200, 200, 200, 0.5);
+    --gradiant-to-right: linear-gradient(to right, #102B3C, #EC1C24);
+    --gradiant-to-up: linear-gradient(to top, #102B3C, #EC1C24);
+}
+
+.darkmode {
+    --light: #fff;
+    --dark: #000;
+}
+
+@font-face {
+    font-family: "Montserrat-Reg";
+    src: url("../fonts/Montserrat/Montserrat-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url("../fonts/Montserrat/Montserrat-Bold.ttf");
+}
+.navmenu {
+    overflow-y: auto !important;
+    overflow-x: hidden; /* disables horizontal scrolling */
+}
+.navmenu-icon svg {
+    fill: var(--primary) !important;
+    stroke: var(--light) !important;
+}
+.positioning-region {
+    background: transparent !important;
+    color: var(--light);
+    margin-bottom: 5px
+}
+.positioning-region img{
+    margin-left: 7px !important;
+    min-width: 35px !important;
+}
+.positioning-region img{
+}
+.positioning-region .fluent-nav-text{
+    margin-left: 30px !important 
+}
+.positioning-region:before {
+    background: var(--secondary) !important;
+}
+.content-region{
+    display: flex;
+    align-items: center
+}
+.content-region svg{
+    fill: var(--light) !important;
+}
+.expand-collapse-button svg {
+    fill: var(--light) !important;
+}
+.fluent-nav-icon {
+    display: flex !important;
+}
+.logo-initial {
+    height: 90px !important;
+    display: flex;
+    margin-bottom: 30px !important;
+}
+.logo-initial .fluent-nav-icon {
+    width: 35px !important;
+}
+.logo-initial .fluent-nav-icon img {
+    height: 90px !important;
+}
+
+.logo-initial .fluent-nav-icon img {
+    margin-left: 0 !important;
+}
+.logo-initial .positioning-region img {
+    min-width: 45px !important;
+}
+.logo-initial .fluent-nav-text {
+    margin: 0 !important;
+}
+.logo-initial .fluent-nav-text img{
+    height: 90px !important;
+    margin: 10px !important;
+}
+@media (max-width: 900px) {
+    .logo-initial .positioning-region img {
+        min-width: 35px !important;
+    }
+    .logo-initial .fluent-nav-icon img {
+        height: 80px !important;
+    }
+    .logo-initial .fluent-nav-text img {
+        margin: 0 !important;
+        height: 85px !important;
+    }
+}
+.fluent-nav-menu{
+    min-width: 70px !important;
+}
+.expand-collapse-button {
+    margin: -80px !important;
+}
+.navmenu{
+    min-height: 100vh;
+}
+@media (max-width: 600px) {
+    .navmenu {
+        min-height: 0;
+    }
+}

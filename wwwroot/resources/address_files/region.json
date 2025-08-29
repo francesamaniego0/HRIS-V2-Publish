@@ -1,0 +1,70 @@
+[
+  {
+    "Region": "REGION I (ILOCOS REGION)",
+    "Region_Id": "1"
+  },
+  {
+    "Region": "REGION II (CAGAYAN VALLEY)",
+    "Region_Id": "2"
+  },
+  {
+    "Region": "REGION III (CENTRAL LUZON)",
+    "Region_Id": "3"
+  },
+  {
+    "Region": "REGION IV-A (CALABARZON)",
+    "Region_Id": "4"
+  },
+  {
+    "Region": "REGION IV-B (MIMAROPA)",
+    "Region_Id": "17"
+  },
+  {
+    "Region": "REGION V (BICOL REGION)",
+    "Region_Id": "5"
+  },
+  {
+    "Region": "REGION VI (WESTERN VISAYAS)",
+    "Region_Id": "6"
+  },
+  {
+    "Region": "REGION VII (CENTRAL VISAYAS)",
+    "Region_Id": "7"
+  },
+  {
+    "Region": "REGION VIII (EASTERN VISAYAS)",
+    "Region_Id": "8"
+  },
+  {
+    "Region": "REGION IX (ZAMBOANGA PENINSULA)",
+    "Region_Id": "9"
+  },
+  {
+    "Region": "REGION X (NORTHERN MINDANAO)",
+    "Region_Id": "10"
+  },
+  {
+    "Region": "REGION XI (DAVAO REGION)",
+    "Region_Id": "11"
+  },
+  {
+    "Region": "REGION XII (SOCCSKSARGEN)",
+    "Region_Id": "12"
+  },
+  {
+    "Region": "NATIONAL CAPITAL REGION (NCR)",
+    "Region_Id": "13"
+  },
+  {
+    "Region": "CORDILLERA ADMINISTRATIVE REGION (CAR)",
+    "Region_Id": "14"
+  },
+  {
+    "Region": "AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)",
+    "Region_Id": "15"
+  },
+  {
+    "Region": "REGION XIII (Caraga)",
+    "Region_Id": "16"
+  }
+]

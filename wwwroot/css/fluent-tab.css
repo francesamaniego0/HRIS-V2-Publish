@@ -1,0 +1,10 @@
+﻿fluent-tab[aria-selected="true"] {
+    background: var(--gradiant-to-up);
+    color: #fff;
+    font-weight: 500!important;
+    border: none;
+    padding: 10px 20px;
+}
+.fluent-data-grid-row td{
+    height: 60px !important;
+}

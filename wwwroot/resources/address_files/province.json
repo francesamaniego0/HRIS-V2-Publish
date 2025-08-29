@@ -1,0 +1,442 @@
+[
+  {
+    "Province": "ILOCOS NORTE",
+    "Region_Id": "1",
+    "Province_Id": "128"
+  },
+  {
+    "Province": "ILOCOS SUR",
+    "Region_Id": "1",
+    "Province_Id": "129"
+  },
+  {
+    "Province": "LA UNION",
+    "Region_Id": "1",
+    "Province_Id": "133"
+  },
+  {
+    "Province": "PANGASINAN",
+    "Region_Id": "1",
+    "Province_Id": "155"
+  },
+  {
+    "Province": "BATANES",
+    "Region_Id": "2",
+    "Province_Id": "209"
+  },
+  {
+    "Province": "CAGAYAN",
+    "Region_Id": "2",
+    "Province_Id": "215"
+  },
+  {
+    "Province": "ISABELA",
+    "Region_Id": "2",
+    "Province_Id": "231"
+  },
+  {
+    "Province": "NUEVA VIZCAYA",
+    "Region_Id": "2",
+    "Province_Id": "250"
+  },
+  {
+    "Province": "QUIRINO",
+    "Region_Id": "2",
+    "Province_Id": "257"
+  },
+  {
+    "Province": "BATAAN",
+    "Region_Id": "3",
+    "Province_Id": "308"
+  },
+  {
+    "Province": "BULACAN",
+    "Region_Id": "3",
+    "Province_Id": "314"
+  },
+  {
+    "Province": "NUEVA ECIJA",
+    "Region_Id": "3",
+    "Province_Id": "349"
+  },
+  {
+    "Province": "PAMPANGA",
+    "Region_Id": "3",
+    "Province_Id": "354"
+  },
+  {
+    "Province": "TARLAC",
+    "Region_Id": "3",
+    "Province_Id": "369"
+  },
+  {
+    "Province": "ZAMBALES",
+    "Region_Id": "3",
+    "Province_Id": "371"
+  },
+  {
+    "Province": "AURORA",
+    "Region_Id": "3",
+    "Province_Id": "377"
+  },
+  {
+    "Province": "BATANGAS",
+    "Region_Id": "4",
+    "Province_Id": "410"
+  },
+  {
+    "Province": "CAVITE",
+    "Region_Id": "4",
+    "Province_Id": "421"
+  },
+  {
+    "Province": "LAGUNA",
+    "Region_Id": "4",
+    "Province_Id": "434"
+  },
+  {
+    "Province": "QUEZON",
+    "Region_Id": "4",
+    "Province_Id": "456"
+  },
+  {
+    "Province": "RIZAL",
+    "Region_Id": "4",
+    "Province_Id": "458"
+  },
+  {
+    "Province": "MARINDUQUE",
+    "Region_Id": "17",
+    "Province_Id": "1740"
+  },
+  {
+    "Province": "OCCIDENTAL MINDORO",
+    "Region_Id": "17",
+    "Province_Id": "1751"
+  },
+  {
+    "Province": "ORIENTAL MINDORO",
+    "Region_Id": "17",
+    "Province_Id": "1752"
+  },
+  {
+    "Province": "PALAWAN",
+    "Region_Id": "17",
+    "Province_Id": "1753"
+  },
+  {
+    "Province": "ROMBLON",
+    "Region_Id": "17",
+    "Province_Id": "1759"
+  },
+  {
+    "Province": "ALBAY",
+    "Region_Id": "5",
+    "Province_Id": "505"
+  },
+  {
+    "Province": "CAMARINES NORTE",
+    "Region_Id": "5",
+    "Province_Id": "516"
+  },
+  {
+    "Province": "CAMARINES SUR",
+    "Region_Id": "5",
+    "Province_Id": "517"
+  },
+  {
+    "Province": "CATANDUANES",
+    "Region_Id": "5",
+    "Province_Id": "520"
+  },
+  {
+    "Province": "MASBATE",
+    "Region_Id": "5",
+    "Province_Id": "541"
+  },
+  {
+    "Province": "SORSOGON",
+    "Region_Id": "5",
+    "Province_Id": "562"
+  },
+  {
+    "Province": "AKLAN",
+    "Region_Id": "6",
+    "Province_Id": "604"
+  },
+  {
+    "Province": "ANTIQUE",
+    "Region_Id": "6",
+    "Province_Id": "606"
+  },
+  {
+    "Province": "CAPIZ",
+    "Region_Id": "6",
+    "Province_Id": "619"
+  },
+  {
+    "Province": "ILOILO",
+    "Region_Id": "6",
+    "Province_Id": "630"
+  },
+  {
+    "Province": "NEGROS OCCIDENTAL",
+    "Region_Id": "6",
+    "Province_Id": "645"
+  },
+  {
+    "Province": "GUIMARAS",
+    "Region_Id": "6",
+    "Province_Id": "679"
+  },
+  {
+    "Province": "BOHOL",
+    "Region_Id": "7",
+    "Province_Id": "712"
+  },
+  {
+    "Province": "CEBU",
+    "Region_Id": "7",
+    "Province_Id": "722"
+  },
+  {
+    "Province": "NEGROS ORIENTAL",
+    "Region_Id": "7",
+    "Province_Id": "746"
+  },
+  {
+    "Province": "SIQUIJOR",
+    "Region_Id": "7",
+    "Province_Id": "761"
+  },
+  {
+    "Province": "EASTERN SAMAR",
+    "Region_Id": "8",
+    "Province_Id": "826"
+  },
+  {
+    "Province": "LEYTE",
+    "Region_Id": "8",
+    "Province_Id": "837"
+  },
+  {
+    "Province": "NORTHERN SAMAR",
+    "Region_Id": "8",
+    "Province_Id": "848"
+  },
+  {
+    "Province": "SAMAR (WESTERN SAMAR)",
+    "Region_Id": "8",
+    "Province_Id": "860"
+  },
+  {
+    "Province": "SOUTHERN LEYTE",
+    "Region_Id": "8",
+    "Province_Id": "864"
+  },
+  {
+    "Province": "BILIRAN",
+    "Region_Id": "8",
+    "Province_Id": "878"
+  },
+  {
+    "Province": "ZAMBOANGA DEL NORTE",
+    "Region_Id": "9",
+    "Province_Id": "972"
+  },
+  {
+    "Province": "ZAMBOANGA DEL SUR",
+    "Region_Id": "9",
+    "Province_Id": "973"
+  },
+  {
+    "Province": "ZAMBOANGA SIBUGAY",
+    "Region_Id": "9",
+    "Province_Id": "983"
+  },
+  {
+    "Province": "CITY OF ISABELA",
+    "Region_Id": "9",
+    "Province_Id": "997"
+  },
+  {
+    "Province": "BUKIDNON",
+    "Region_Id": "10",
+    "Province_Id": "1013"
+  },
+  {
+    "Province": "CAMIGUIN",
+    "Region_Id": "10",
+    "Province_Id": "1018"
+  },
+  {
+    "Province": "LANAO DEL NORTE",
+    "Region_Id": "10",
+    "Province_Id": "1035"
+  },
+  {
+    "Province": "MISAMIS OCCIDENTAL",
+    "Region_Id": "10",
+    "Province_Id": "1042"
+  },
+  {
+    "Province": "MISAMIS ORIENTAL",
+    "Region_Id": "10",
+    "Province_Id": "1043"
+  },
+  {
+    "Province": "DAVAO DEL NORTE",
+    "Region_Id": "11",
+    "Province_Id": "1123"
+  },
+  {
+    "Province": "DAVAO DEL SUR",
+    "Region_Id": "11",
+    "Province_Id": "1124"
+  },
+  {
+    "Province": "DAVAO ORIENTAL",
+    "Region_Id": "11",
+    "Province_Id": "1125"
+  },
+  {
+    "Province": "COMPOSTELA VALLEY",
+    "Region_Id": "11",
+    "Province_Id": "1182"
+  },
+  {
+    "Province": "DAVAO OCCIDENTAL",
+    "Region_Id": "11",
+    "Province_Id": "1186"
+  },
+  {
+    "Province": "COTABATO (NORTH COTABATO)",
+    "Region_Id": "12",
+    "Province_Id": "1247"
+  },
+  {
+    "Province": "SOUTH COTABATO",
+    "Region_Id": "12",
+    "Province_Id": "1263"
+  },
+  {
+    "Province": "SULTAN KUDARAT",
+    "Region_Id": "12",
+    "Province_Id": "1265"
+  },
+  {
+    "Province": "SARANGANI",
+    "Region_Id": "12",
+    "Province_Id": "1280"
+  },
+  {
+    "Province": "COTABATO CITY",
+    "Region_Id": "12",
+    "Province_Id": "1298"
+  },
+  {
+    "Province": "NCR CITY OF MANILA FIRST DISTRICT",
+    "Region_Id": "13",
+    "Province_Id": "1339"
+  },
+  {
+    "Province": "CITY OF MANILA",
+    "Region_Id": "13",
+    "Province_Id": "1339"
+  },
+  {
+    "Province": "NCR SECOND DISTRICT",
+    "Region_Id": "13",
+    "Province_Id": "1374"
+  },
+  {
+    "Province": "NCR THIRD DISTRICT",
+    "Region_Id": "13",
+    "Province_Id": "1375"
+  },
+  {
+    "Province": "NCR FOURTH DISTRICT",
+    "Region_Id": "13",
+    "Province_Id": "1376"
+  },
+  {
+    "Province": "ABRA",
+    "Region_Id": "14",
+    "Province_Id": "1401"
+  },
+  {
+    "Province": "BENGUET",
+    "Region_Id": "14",
+    "Province_Id": "1411"
+  },
+  {
+    "Province": "IFUGAO",
+    "Region_Id": "14",
+    "Province_Id": "1427"
+  },
+  {
+    "Province": "KALINGA",
+    "Region_Id": "14",
+    "Province_Id": "1432"
+  },
+  {
+    "Province": "MOUNTAIN PROVINCE",
+    "Region_Id": "14",
+    "Province_Id": "1444"
+  },
+  {
+    "Province": "APAYAO",
+    "Region_Id": "14",
+    "Province_Id": "1481"
+  },
+  {
+    "Province": "BASILAN",
+    "Region_Id": "15",
+    "Province_Id": "1507"
+  },
+  {
+    "Province": "LANAO DEL SUR",
+    "Region_Id": "15",
+    "Province_Id": "1536"
+  },
+  {
+    "Province": "MAGUINDANAO",
+    "Region_Id": "15",
+    "Province_Id": "1538"
+  },
+  {
+    "Province": "SULU",
+    "Region_Id": "15",
+    "Province_Id": "1566"
+  },
+  {
+    "Province": "TAWI-TAWI",
+    "Region_Id": "15",
+    "Province_Id": "1570"
+  },
+  {
+    "Province": "AGUSAN DEL NORTE",
+    "Region_Id": "16",
+    "Province_Id": "1602"
+  },
+  {
+    "Province": "AGUSAN DEL SUR",
+    "Region_Id": "16",
+    "Province_Id": "1603"
+  },
+  {
+    "Province": "SURIGAO DEL NORTE",
+    "Region_Id": "16",
+    "Province_Id": "1667"
+  },
+  {
+    "Province": "SURIGAO DEL SUR",
+    "Region_Id": "16",
+    "Province_Id": "1668"
+  },
+  {
+    "Province": "DINAGAT ISLANDS",
+    "Region_Id": "16",
+    "Province_Id": "1685"
+  }
+]

@@ -1,0 +1,19 @@
+﻿:root {
+    --accent-base-color: #102B3C;
+    --themePrimary: #102B3C; /* Blue - default */
+    --neutralPrimary: #EC1C24; /* Text color */
+    --white: #ffffff; /* Background */
+    --black: #000000;
+    --accent-fill-rest: #102B3C !important;
+    --accent-fill-hover: #133347 !important;
+    --accent-fill-active: #173C53 !important;
+    --accent-fill-focus: #102B3C !important;
+    --accent-foreground-rest: #102B3C !important;
+    --accent-foreground-hover: #0E2633 !important;
+    --accent-foreground-active: #0D3348 !important;
+    --accent-foreground-focus: #102B3C !important;
+    --accent-stroke-control-rest: linear-gradient(#102B3C 90%, #0A1B25 100%) !important;
+    --accent-stroke-control-hover: linear-gradient(#133347 90%, #0D2633 100%) !important;
+    --accent-stroke-control-active: #173C53 !important;
+    --accent-stroke-control-focus: linear-gradient(#102B3C 90%, #0A1B25 100%) !important;
+}

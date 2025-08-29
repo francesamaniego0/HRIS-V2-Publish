@@ -1,0 +1,9884 @@
+﻿[
+  {
+    "City": "ADAMS",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12801"
+  },
+  {
+    "City": "BACARRA",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12802"
+  },
+  {
+    "City": "BADOC",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12803"
+  },
+  {
+    "City": "BANGUI",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12804"
+  },
+  {
+    "City": "CITY OF BATAC",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12805"
+  },
+  {
+    "City": "BURGOS",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12806"
+  },
+  {
+    "City": "CARASI",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12807"
+  },
+  {
+    "City": "CURRIMAO",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12808"
+  },
+  {
+    "City": "DINGRAS",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12809"
+  },
+  {
+    "City": "DUMALNEG",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12810"
+  },
+  {
+    "City": "BANNA (ESPIRITU)",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12811"
+  },
+  {
+    "City": "LAOAG CITY (Capital)",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12812"
+  },
+  {
+    "City": "MARCOS",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12813"
+  },
+  {
+    "City": "NUEVA ERA",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12814"
+  },
+  {
+    "City": "PAGUDPUD",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12815"
+  },
+  {
+    "City": "PAOAY",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12816"
+  },
+  {
+    "City": "PASUQUIN",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12817"
+  },
+  {
+    "City": "PIDDIG",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12818"
+  },
+  {
+    "City": "PINILI",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12819"
+  },
+  {
+    "City": "SAN NICOLAS",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12820"
+  },
+  {
+    "City": "SARRAT",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12821"
+  },
+  {
+    "City": "SOLSONA",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12822"
+  },
+  {
+    "City": "VINTAR",
+    "Region_Id": "1",
+    "Province_Id": "128",
+    "City_Id": "12823"
+  },
+  {
+    "City": "ALILEM",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12901"
+  },
+  {
+    "City": "BANAYOYO",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12902"
+  },
+  {
+    "City": "BANTAY",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12903"
+  },
+  {
+    "City": "BURGOS",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12904"
+  },
+  {
+    "City": "CABUGAO",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12905"
+  },
+  {
+    "City": "CITY OF CANDON",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12906"
+  },
+  {
+    "City": "CAOAYAN",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12907"
+  },
+  {
+    "City": "CERVANTES",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12908"
+  },
+  {
+    "City": "GALIMUYOD",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12909"
+  },
+  {
+    "City": "GREGORIO DEL PILAR (CONCEPCION)",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12910"
+  },
+  {
+    "City": "LIDLIDDA",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12911"
+  },
+  {
+    "City": "MAGSINGAL",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12912"
+  },
+  {
+    "City": "NAGBUKEL",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12913"
+  },
+  {
+    "City": "NARVACAN",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12914"
+  },
+  {
+    "City": "QUIRINO (ANGKAKI)",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12915"
+  },
+  {
+    "City": "SALCEDO (BAUGEN)",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12916"
+  },
+  {
+    "City": "SAN EMILIO",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12917"
+  },
+  {
+    "City": "SAN ESTEBAN",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12918"
+  },
+  {
+    "City": "SAN ILDEFONSO",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12919"
+  },
+  {
+    "City": "SAN JUAN (LAPOG)",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12920"
+  },
+  {
+    "City": "SAN VICENTE",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12921"
+  },
+  {
+    "City": "SANTA",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12922"
+  },
+  {
+    "City": "SANTA CATALINA",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12923"
+  },
+  {
+    "City": "SANTA CRUZ",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12924"
+  },
+  {
+    "City": "SANTA LUCIA",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12925"
+  },
+  {
+    "City": "SANTA MARIA",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12926"
+  },
+  {
+    "City": "SANTIAGO",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12927"
+  },
+  {
+    "City": "SANTO DOMINGO",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12928"
+  },
+  {
+    "City": "SIGAY",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12929"
+  },
+  {
+    "City": "SINAIT",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12930"
+  },
+  {
+    "City": "SUGPON",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12931"
+  },
+  {
+    "City": "SUYO",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12932"
+  },
+  {
+    "City": "TAGUDIN",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12933"
+  },
+  {
+    "City": "CITY OF VIGAN (Capital)",
+    "Region_Id": "1",
+    "Province_Id": "129",
+    "City_Id": "12934"
+  },
+  {
+    "City": "AGOO",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13301"
+  },
+  {
+    "City": "ARINGAY",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13302"
+  },
+  {
+    "City": "BACNOTAN",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13303"
+  },
+  {
+    "City": "BAGULIN",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13304"
+  },
+  {
+    "City": "BALAOAN",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13305"
+  },
+  {
+    "City": "BANGAR",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13306"
+  },
+  {
+    "City": "BAUANG",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13307"
+  },
+  {
+    "City": "BURGOS",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13308"
+  },
+  {
+    "City": "CABA",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13309"
+  },
+  {
+    "City": "LUNA",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13310"
+  },
+  {
+    "City": "NAGUILIAN",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13311"
+  },
+  {
+    "City": "PUGO",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13312"
+  },
+  {
+    "City": "ROSARIO",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13313"
+  },
+  {
+    "City": "CITY OF SAN FERNANDO (Capital)",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13314"
+  },
+  {
+    "City": "SAN GABRIEL",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13315"
+  },
+  {
+    "City": "SAN JUAN",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13316"
+  },
+  {
+    "City": "SANTO TOMAS",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13317"
+  },
+  {
+    "City": "SANTOL",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13318"
+  },
+  {
+    "City": "SUDIPEN",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13319"
+  },
+  {
+    "City": "TUBAO",
+    "Region_Id": "1",
+    "Province_Id": "133",
+    "City_Id": "13320"
+  },
+  {
+    "City": "AGNO",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15501"
+  },
+  {
+    "City": "AGUILAR",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15502"
+  },
+  {
+    "City": "CITY OF ALAMINOS",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15503"
+  },
+  {
+    "City": "ALCALA",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15504"
+  },
+  {
+    "City": "ANDA",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15505"
+  },
+  {
+    "City": "ASINGAN",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15506"
+  },
+  {
+    "City": "BALUNGAO",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15507"
+  },
+  {
+    "City": "BANI",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15508"
+  },
+  {
+    "City": "BASISTA",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15509"
+  },
+  {
+    "City": "BAUTISTA",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15510"
+  },
+  {
+    "City": "BAYAMBANG",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15511"
+  },
+  {
+    "City": "BINALONAN",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15512"
+  },
+  {
+    "City": "BINMALEY",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15513"
+  },
+  {
+    "City": "BOLINAO",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15514"
+  },
+  {
+    "City": "BUGALLON",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15515"
+  },
+  {
+    "City": "BURGOS",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15516"
+  },
+  {
+    "City": "CALASIAO",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15517"
+  },
+  {
+    "City": "DAGUPAN CITY",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15518"
+  },
+  {
+    "City": "DASOL",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15519"
+  },
+  {
+    "City": "INFANTA",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15520"
+  },
+  {
+    "City": "LABRADOR",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15521"
+  },
+  {
+    "City": "LINGAYEN (Capital)",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15522"
+  },
+  {
+    "City": "MABINI",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15523"
+  },
+  {
+    "City": "MALASIQUI",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15524"
+  },
+  {
+    "City": "MANAOAG",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15525"
+  },
+  {
+    "City": "MANGALDAN",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15526"
+  },
+  {
+    "City": "MANGATAREM",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15527"
+  },
+  {
+    "City": "MAPANDAN",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15528"
+  },
+  {
+    "City": "NATIVIDAD",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15529"
+  },
+  {
+    "City": "POZORRUBIO",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15530"
+  },
+  {
+    "City": "ROSALES",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15531"
+  },
+  {
+    "City": "SAN CARLOS CITY",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15532"
+  },
+  {
+    "City": "SAN FABIAN",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15533"
+  },
+  {
+    "City": "SAN JACINTO",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15534"
+  },
+  {
+    "City": "SAN MANUEL",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15535"
+  },
+  {
+    "City": "SAN NICOLAS",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15536"
+  },
+  {
+    "City": "SAN QUINTIN",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15537"
+  },
+  {
+    "City": "SANTA BARBARA",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15538"
+  },
+  {
+    "City": "SANTA MARIA",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15539"
+  },
+  {
+    "City": "SANTO TOMAS",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15540"
+  },
+  {
+    "City": "SISON",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15541"
+  },
+  {
+    "City": "SUAL",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15542"
+  },
+  {
+    "City": "TAYUG",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15543"
+  },
+  {
+    "City": "UMINGAN",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15544"
+  },
+  {
+    "City": "URBIZTONDO",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15545"
+  },
+  {
+    "City": "CITY OF URDANETA",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15546"
+  },
+  {
+    "City": "VILLASIS",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15547"
+  },
+  {
+    "City": "LAOAC",
+    "Region_Id": "1",
+    "Province_Id": "155",
+    "City_Id": "15548"
+  },
+  {
+    "City": "BASCO (Capital)",
+    "Region_Id": "2",
+    "Province_Id": "209",
+    "City_Id": "20901"
+  },
+  {
+    "City": "ITBAYAT",
+    "Region_Id": "2",
+    "Province_Id": "209",
+    "City_Id": "20902"
+  },
+  {
+    "City": "IVANA",
+    "Region_Id": "2",
+    "Province_Id": "209",
+    "City_Id": "20903"
+  },
+  {
+    "City": "MAHATAO",
+    "Region_Id": "2",
+    "Province_Id": "209",
+    "City_Id": "20904"
+  },
+  {
+    "City": "SABTANG",
+    "Region_Id": "2",
+    "Province_Id": "209",
+    "City_Id": "20905"
+  },
+  {
+    "City": "UYUGAN",
+    "Region_Id": "2",
+    "Province_Id": "209",
+    "City_Id": "20906"
+  },
+  {
+    "City": "ABULUG",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21501"
+  },
+  {
+    "City": "ALCALA",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21502"
+  },
+  {
+    "City": "ALLACAPAN",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21503"
+  },
+  {
+    "City": "AMULUNG",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21504"
+  },
+  {
+    "City": "APARRI",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21505"
+  },
+  {
+    "City": "BAGGAO",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21506"
+  },
+  {
+    "City": "BALLESTEROS",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21507"
+  },
+  {
+    "City": "BUGUEY",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21508"
+  },
+  {
+    "City": "CALAYAN",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21509"
+  },
+  {
+    "City": "CAMALANIUGAN",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21510"
+  },
+  {
+    "City": "CLAVERIA",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21511"
+  },
+  {
+    "City": "ENRILE",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21512"
+  },
+  {
+    "City": "GATTARAN",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21513"
+  },
+  {
+    "City": "GONZAGA",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21514"
+  },
+  {
+    "City": "IGUIG",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21515"
+  },
+  {
+    "City": "LAL-LO",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21516"
+  },
+  {
+    "City": "LASAM",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21517"
+  },
+  {
+    "City": "PAMPLONA",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21518"
+  },
+  {
+    "City": "PEﾑABLANCA",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21519"
+  },
+  {
+    "City": "PIAT",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21520"
+  },
+  {
+    "City": "RIZAL",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21521"
+  },
+  {
+    "City": "SANCHEZ-MIRA",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21522"
+  },
+  {
+    "City": "SANTA ANA",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21523"
+  },
+  {
+    "City": "SANTA PRAXEDES",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21524"
+  },
+  {
+    "City": "SANTA TERESITA",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21525"
+  },
+  {
+    "City": "SANTO NIﾑO (FAIRE)",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21526"
+  },
+  {
+    "City": "SOLANA",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21527"
+  },
+  {
+    "City": "TUAO",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21528"
+  },
+  {
+    "City": "TUGUEGARAO CITY (Capital)",
+    "Region_Id": "2",
+    "Province_Id": "215",
+    "City_Id": "21529"
+  },
+  {
+    "City": "ALICIA",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23101"
+  },
+  {
+    "City": "ANGADANAN",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23102"
+  },
+  {
+    "City": "AURORA",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23103"
+  },
+  {
+    "City": "BENITO SOLIVEN",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23104"
+  },
+  {
+    "City": "BURGOS",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23105"
+  },
+  {
+    "City": "CABAGAN",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23106"
+  },
+  {
+    "City": "CABATUAN",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23107"
+  },
+  {
+    "City": "CITY OF CAUAYAN",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23108"
+  },
+  {
+    "City": "CORDON",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23109"
+  },
+  {
+    "City": "DINAPIGUE",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23110"
+  },
+  {
+    "City": "DIVILACAN",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23111"
+  },
+  {
+    "City": "ECHAGUE",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23112"
+  },
+  {
+    "City": "GAMU",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23113"
+  },
+  {
+    "City": "ILAGAN CITY (Capital)",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23114"
+  },
+  {
+    "City": "JONES",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23115"
+  },
+  {
+    "City": "LUNA",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23116"
+  },
+  {
+    "City": "MACONACON",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23117"
+  },
+  {
+    "City": "DELFIN ALBANO (MAGSAYSAY)",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23118"
+  },
+  {
+    "City": "MALLIG",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23119"
+  },
+  {
+    "City": "NAGUILIAN",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23120"
+  },
+  {
+    "City": "PALANAN",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23121"
+  },
+  {
+    "City": "QUEZON",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23122"
+  },
+  {
+    "City": "QUIRINO",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23123"
+  },
+  {
+    "City": "RAMON",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23124"
+  },
+  {
+    "City": "REINA MERCEDES",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23125"
+  },
+  {
+    "City": "ROXAS",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23126"
+  },
+  {
+    "City": "SAN AGUSTIN",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23127"
+  },
+  {
+    "City": "SAN GUILLERMO",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23128"
+  },
+  {
+    "City": "SAN ISIDRO",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23129"
+  },
+  {
+    "City": "SAN MANUEL",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23130"
+  },
+  {
+    "City": "SAN MARIANO",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23131"
+  },
+  {
+    "City": "SAN MATEO",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23132"
+  },
+  {
+    "City": "SAN PABLO",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23133"
+  },
+  {
+    "City": "SANTA MARIA",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23134"
+  },
+  {
+    "City": "CITY OF SANTIAGO",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23135"
+  },
+  {
+    "City": "SANTO TOMAS",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23136"
+  },
+  {
+    "City": "TUMAUINI",
+    "Region_Id": "2",
+    "Province_Id": "231",
+    "City_Id": "23137"
+  },
+  {
+    "City": "AMBAGUIO",
+    "Region_Id": "2",
+    "Province_Id": "250",
+    "City_Id": "25001"
+  },
+  {
+    "City": "ARITAO",
+    "Region_Id": "2",
+    "Province_Id": "250",
+    "City_Id": "25002"
+  },
+  {
+    "City": "BAGABAG",
+    "Region_Id": "2",
+    "Province_Id": "250",
+    "City_Id": "25003"
+  },
+  {
+    "City": "BAMBANG",
+    "Region_Id": "2",
+    "Province_Id": "250",
+    "City_Id": "25004"
+  },
+  {
+    "City": "BAYOMBONG (Capital)",
+    "Region_Id": "2",
+    "Province_Id": "250",
+    "City_Id": "25005"
+  },
+  {
+    "City": "DIADI",
+    "Region_Id": "2",
+    "Province_Id": "250",
+    "City_Id": "25006"
+  },
+  {
+    "City": "DUPAX DEL NORTE",
+    "Region_Id": "2",
+    "Province_Id": "250",
+    "City_Id": "25007"
+  },
+  {
+    "City": "DUPAX DEL SUR",
+    "Region_Id": "2",
+    "Province_Id": "250",
+    "City_Id": "25008"
+  },
+  {
+    "City": "KASIBU",
+    "Region_Id": "2",
+    "Province_Id": "250",
+    "City_Id": "25009"
+  },
+  {
+    "City": "KAYAPA",
+    "Region_Id": "2",
+    "Province_Id": "250",
+    "City_Id": "25010"
+  },
+  {
+    "City": "QUEZON",
+    "Region_Id": "2",
+    "Province_Id": "250",
+    "City_Id": "25011"
+  },
+  {
+    "City": "SANTA FE",
+    "Region_Id": "2",
+    "Province_Id": "250",
+    "City_Id": "25012"
+  },
+  {
+    "City": "SOLANO",
+    "Region_Id": "2",
+    "Province_Id": "250",
+    "City_Id": "25013"
+  },
+  {
+    "City": "VILLAVERDE",
+    "Region_Id": "2",
+    "Province_Id": "250",
+    "City_Id": "25014"
+  },
+  {
+    "City": "ALFONSO CASTANEDA",
+    "Region_Id": "2",
+    "Province_Id": "250",
+    "City_Id": "25015"
+  },
+  {
+    "City": "AGLIPAY",
+    "Region_Id": "2",
+    "Province_Id": "257",
+    "City_Id": "25701"
+  },
+  {
+    "City": "CABARROGUIS (Capital)",
+    "Region_Id": "2",
+    "Province_Id": "257",
+    "City_Id": "25702"
+  },
+  {
+    "City": "DIFFUN",
+    "Region_Id": "2",
+    "Province_Id": "257",
+    "City_Id": "25703"
+  },
+  {
+    "City": "MADDELA",
+    "Region_Id": "2",
+    "Province_Id": "257",
+    "City_Id": "25704"
+  },
+  {
+    "City": "SAGUDAY",
+    "Region_Id": "2",
+    "Province_Id": "257",
+    "City_Id": "25705"
+  },
+  {
+    "City": "NAGTIPUNAN",
+    "Region_Id": "2",
+    "Province_Id": "257",
+    "City_Id": "25706"
+  },
+  {
+    "City": "ABUCAY",
+    "Region_Id": "3",
+    "Province_Id": "308",
+    "City_Id": "30801"
+  },
+  {
+    "City": "BAGAC",
+    "Region_Id": "3",
+    "Province_Id": "308",
+    "City_Id": "30802"
+  },
+  {
+    "City": "CITY OF BALANGA (Capital)",
+    "Region_Id": "3",
+    "Province_Id": "308",
+    "City_Id": "30803"
+  },
+  {
+    "City": "DINALUPIHAN",
+    "Region_Id": "3",
+    "Province_Id": "308",
+    "City_Id": "30804"
+  },
+  {
+    "City": "HERMOSA",
+    "Region_Id": "3",
+    "Province_Id": "308",
+    "City_Id": "30805"
+  },
+  {
+    "City": "LIMAY",
+    "Region_Id": "3",
+    "Province_Id": "308",
+    "City_Id": "30806"
+  },
+  {
+    "City": "MARIVELES",
+    "Region_Id": "3",
+    "Province_Id": "308",
+    "City_Id": "30807"
+  },
+  {
+    "City": "MORONG",
+    "Region_Id": "3",
+    "Province_Id": "308",
+    "City_Id": "30808"
+  },
+  {
+    "City": "ORANI",
+    "Region_Id": "3",
+    "Province_Id": "308",
+    "City_Id": "30809"
+  },
+  {
+    "City": "ORION",
+    "Region_Id": "3",
+    "Province_Id": "308",
+    "City_Id": "30810"
+  },
+  {
+    "City": "PILAR",
+    "Region_Id": "3",
+    "Province_Id": "308",
+    "City_Id": "30811"
+  },
+  {
+    "City": "SAMAL",
+    "Region_Id": "3",
+    "Province_Id": "308",
+    "City_Id": "30812"
+  },
+  {
+    "City": "ANGAT",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31401"
+  },
+  {
+    "City": "BALAGTAS (BIGAA)",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31402"
+  },
+  {
+    "City": "BALIUAG",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31403"
+  },
+  {
+    "City": "BOCAUE",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31404"
+  },
+  {
+    "City": "BULACAN",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31405"
+  },
+  {
+    "City": "BUSTOS",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31406"
+  },
+  {
+    "City": "CALUMPIT",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31407"
+  },
+  {
+    "City": "GUIGUINTO",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31408"
+  },
+  {
+    "City": "HAGONOY",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31409"
+  },
+  {
+    "City": "CITY OF MALOLOS (Capital)",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31410"
+  },
+  {
+    "City": "MARILAO",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31411"
+  },
+  {
+    "City": "CITY OF MEYCAUAYAN",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31412"
+  },
+  {
+    "City": "NORZAGARAY",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31413"
+  },
+  {
+    "City": "OBANDO",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31414"
+  },
+  {
+    "City": "PANDI",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31415"
+  },
+  {
+    "City": "PAOMBONG",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31416"
+  },
+  {
+    "City": "PLARIDEL",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31417"
+  },
+  {
+    "City": "PULILAN",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31418"
+  },
+  {
+    "City": "SAN ILDEFONSO",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31419"
+  },
+  {
+    "City": "CITY OF SAN JOSE DEL MONTE",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31420"
+  },
+  {
+    "City": "SAN MIGUEL",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31421"
+  },
+  {
+    "City": "SAN RAFAEL",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31422"
+  },
+  {
+    "City": "SANTA MARIA",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31423"
+  },
+  {
+    "City": "DOﾑA REMEDIOS TRINIDAD",
+    "Region_Id": "3",
+    "Province_Id": "314",
+    "City_Id": "31424"
+  },
+  {
+    "City": "ALIAGA",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34901"
+  },
+  {
+    "City": "BONGABON",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34902"
+  },
+  {
+    "City": "CABANATUAN CITY",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34903"
+  },
+  {
+    "City": "CABIAO",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34904"
+  },
+  {
+    "City": "CARRANGLAN",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34905"
+  },
+  {
+    "City": "CUYAPO",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34906"
+  },
+  {
+    "City": "GABALDON (BITULOK & SABANI)",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34907"
+  },
+  {
+    "City": "CITY OF GAPAN",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34908"
+  },
+  {
+    "City": "GENERAL MAMERTO NATIVIDAD",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34909"
+  },
+  {
+    "City": "GENERAL TINIO (PAPAYA)",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34910"
+  },
+  {
+    "City": "GUIMBA",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34911"
+  },
+  {
+    "City": "JAEN",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34912"
+  },
+  {
+    "City": "LAUR",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34913"
+  },
+  {
+    "City": "LICAB",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34914"
+  },
+  {
+    "City": "LLANERA",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34915"
+  },
+  {
+    "City": "LUPAO",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34916"
+  },
+  {
+    "City": "SCIENCE CITY OF MUﾑOZ",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34917"
+  },
+  {
+    "City": "NAMPICUAN",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34918"
+  },
+  {
+    "City": "PALAYAN CITY (Capital)",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34919"
+  },
+  {
+    "City": "PANTABANGAN",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34920"
+  },
+  {
+    "City": "PEﾑARANDA",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34921"
+  },
+  {
+    "City": "QUEZON",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34922"
+  },
+  {
+    "City": "RIZAL",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34923"
+  },
+  {
+    "City": "SAN ANTONIO",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34924"
+  },
+  {
+    "City": "SAN ISIDRO",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34925"
+  },
+  {
+    "City": "SAN JOSE CITY",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34926"
+  },
+  {
+    "City": "SAN LEONARDO",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34927"
+  },
+  {
+    "City": "SANTA ROSA",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34928"
+  },
+  {
+    "City": "SANTO DOMINGO",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34929"
+  },
+  {
+    "City": "TALAVERA",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34930"
+  },
+  {
+    "City": "TALUGTUG",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34931"
+  },
+  {
+    "City": "ZARAGOZA",
+    "Region_Id": "3",
+    "Province_Id": "349",
+    "City_Id": "34932"
+  },
+  {
+    "City": "ANGELES CITY",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35401"
+  },
+  {
+    "City": "APALIT",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35402"
+  },
+  {
+    "City": "ARAYAT",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35403"
+  },
+  {
+    "City": "BACOLOR",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35404"
+  },
+  {
+    "City": "CANDABA",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35405"
+  },
+  {
+    "City": "FLORIDABLANCA",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35406"
+  },
+  {
+    "City": "GUAGUA",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35407"
+  },
+  {
+    "City": "LUBAO",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35408"
+  },
+  {
+    "City": "MABALACAT CITY",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35409"
+  },
+  {
+    "City": "MACABEBE",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35410"
+  },
+  {
+    "City": "MAGALANG",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35411"
+  },
+  {
+    "City": "MASANTOL",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35412"
+  },
+  {
+    "City": "MEXICO",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35413"
+  },
+  {
+    "City": "MINALIN",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35414"
+  },
+  {
+    "City": "PORAC",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35415"
+  },
+  {
+    "City": "CITY OF SAN FERNANDO (Capital)",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35416"
+  },
+  {
+    "City": "SAN LUIS",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35417"
+  },
+  {
+    "City": "SAN SIMON",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35418"
+  },
+  {
+    "City": "SANTA ANA",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35419"
+  },
+  {
+    "City": "SANTA RITA",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35420"
+  },
+  {
+    "City": "SANTO TOMAS",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35421"
+  },
+  {
+    "City": "SASMUAN (Sexmoan)",
+    "Region_Id": "3",
+    "Province_Id": "354",
+    "City_Id": "35422"
+  },
+  {
+    "City": "ANAO",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36901"
+  },
+  {
+    "City": "BAMBAN",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36902"
+  },
+  {
+    "City": "CAMILING",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36903"
+  },
+  {
+    "City": "CAPAS",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36904"
+  },
+  {
+    "City": "CONCEPCION",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36905"
+  },
+  {
+    "City": "GERONA",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36906"
+  },
+  {
+    "City": "LA PAZ",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36907"
+  },
+  {
+    "City": "MAYANTOC",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36908"
+  },
+  {
+    "City": "MONCADA",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36909"
+  },
+  {
+    "City": "PANIQUI",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36910"
+  },
+  {
+    "City": "PURA",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36911"
+  },
+  {
+    "City": "RAMOS",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36912"
+  },
+  {
+    "City": "SAN CLEMENTE",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36913"
+  },
+  {
+    "City": "SAN MANUEL",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36914"
+  },
+  {
+    "City": "SANTA IGNACIA",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36915"
+  },
+  {
+    "City": "CITY OF TARLAC (Capital)",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36916"
+  },
+  {
+    "City": "VICTORIA",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36917"
+  },
+  {
+    "City": "SAN JOSE",
+    "Region_Id": "3",
+    "Province_Id": "369",
+    "City_Id": "36918"
+  },
+  {
+    "City": "BOTOLAN",
+    "Region_Id": "3",
+    "Province_Id": "371",
+    "City_Id": "37101"
+  },
+  {
+    "City": "CABANGAN",
+    "Region_Id": "3",
+    "Province_Id": "371",
+    "City_Id": "37102"
+  },
+  {
+    "City": "CANDELARIA",
+    "Region_Id": "3",
+    "Province_Id": "371",
+    "City_Id": "37103"
+  },
+  {
+    "City": "CASTILLEJOS",
+    "Region_Id": "3",
+    "Province_Id": "371",
+    "City_Id": "37104"
+  },
+  {
+    "City": "IBA (Capital)",
+    "Region_Id": "3",
+    "Province_Id": "371",
+    "City_Id": "37105"
+  },
+  {
+    "City": "MASINLOC",
+    "Region_Id": "3",
+    "Province_Id": "371",
+    "City_Id": "37106"
+  },
+  {
+    "City": "OLONGAPO CITY",
+    "Region_Id": "3",
+    "Province_Id": "371",
+    "City_Id": "37107"
+  },
+  {
+    "City": "PALAUIG",
+    "Region_Id": "3",
+    "Province_Id": "371",
+    "City_Id": "37108"
+  },
+  {
+    "City": "SAN ANTONIO",
+    "Region_Id": "3",
+    "Province_Id": "371",
+    "City_Id": "37109"
+  },
+  {
+    "City": "SAN FELIPE",
+    "Region_Id": "3",
+    "Province_Id": "371",
+    "City_Id": "37110"
+  },
+  {
+    "City": "SAN MARCELINO",
+    "Region_Id": "3",
+    "Province_Id": "371",
+    "City_Id": "37111"
+  },
+  {
+    "City": "SAN NARCISO",
+    "Region_Id": "3",
+    "Province_Id": "371",
+    "City_Id": "37112"
+  },
+  {
+    "City": "SANTA CRUZ",
+    "Region_Id": "3",
+    "Province_Id": "371",
+    "City_Id": "37113"
+  },
+  {
+    "City": "SUBIC",
+    "Region_Id": "3",
+    "Province_Id": "371",
+    "City_Id": "37114"
+  },
+  {
+    "City": "BALER (Capital)",
+    "Region_Id": "3",
+    "Province_Id": "377",
+    "City_Id": "37701"
+  },
+  {
+    "City": "CASIGURAN",
+    "Region_Id": "3",
+    "Province_Id": "377",
+    "City_Id": "37702"
+  },
+  {
+    "City": "DILASAG",
+    "Region_Id": "3",
+    "Province_Id": "377",
+    "City_Id": "37703"
+  },
+  {
+    "City": "DINALUNGAN",
+    "Region_Id": "3",
+    "Province_Id": "377",
+    "City_Id": "37704"
+  },
+  {
+    "City": "DINGALAN",
+    "Region_Id": "3",
+    "Province_Id": "377",
+    "City_Id": "37705"
+  },
+  {
+    "City": "DIPACULAO",
+    "Region_Id": "3",
+    "Province_Id": "377",
+    "City_Id": "37706"
+  },
+  {
+    "City": "MARIA AURORA",
+    "Region_Id": "3",
+    "Province_Id": "377",
+    "City_Id": "37707"
+  },
+  {
+    "City": "SAN LUIS",
+    "Region_Id": "3",
+    "Province_Id": "377",
+    "City_Id": "37708"
+  },
+  {
+    "City": "AGONCILLO",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41001"
+  },
+  {
+    "City": "ALITAGTAG",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41002"
+  },
+  {
+    "City": "BALAYAN",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41003"
+  },
+  {
+    "City": "BALETE",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41004"
+  },
+  {
+    "City": "BATANGAS CITY (Capital)",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41005"
+  },
+  {
+    "City": "BAUAN",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41006"
+  },
+  {
+    "City": "CALACA",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41007"
+  },
+  {
+    "City": "CALATAGAN",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41008"
+  },
+  {
+    "City": "CUENCA",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41009"
+  },
+  {
+    "City": "IBAAN",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41010"
+  },
+  {
+    "City": "LAUREL",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41011"
+  },
+  {
+    "City": "LEMERY",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41012"
+  },
+  {
+    "City": "LIAN",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41013"
+  },
+  {
+    "City": "LIPA CITY",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41014"
+  },
+  {
+    "City": "LOBO",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41015"
+  },
+  {
+    "City": "MABINI",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41016"
+  },
+  {
+    "City": "MALVAR",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41017"
+  },
+  {
+    "City": "MATAASNAKAHOY",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41018"
+  },
+  {
+    "City": "NASUGBU",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41019"
+  },
+  {
+    "City": "PADRE GARCIA",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41020"
+  },
+  {
+    "City": "ROSARIO",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41021"
+  },
+  {
+    "City": "SAN JOSE",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41022"
+  },
+  {
+    "City": "SAN JUAN",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41023"
+  },
+  {
+    "City": "SAN LUIS",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41024"
+  },
+  {
+    "City": "SAN NICOLAS",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41025"
+  },
+  {
+    "City": "SAN PASCUAL",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41026"
+  },
+  {
+    "City": "SANTA TERESITA",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41027"
+  },
+  {
+    "City": "SANTO TOMAS",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41028"
+  },
+  {
+    "City": "TAAL",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41029"
+  },
+  {
+    "City": "TALISAY",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41030"
+  },
+  {
+    "City": "CITY OF TANAUAN",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41031"
+  },
+  {
+    "City": "TAYSAN",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41032"
+  },
+  {
+    "City": "TINGLOY",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41033"
+  },
+  {
+    "City": "TUY",
+    "Region_Id": "4",
+    "Province_Id": "410",
+    "City_Id": "41034"
+  },
+  {
+    "City": "ALFONSO",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42101"
+  },
+  {
+    "City": "AMADEO",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42102"
+  },
+  {
+    "City": "BACOOR CITY",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42103"
+  },
+  {
+    "City": "CARMONA",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42104"
+  },
+  {
+    "City": "CAVITE CITY",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42105"
+  },
+  {
+    "City": "CITY OF DASMARIﾑAS",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42106"
+  },
+  {
+    "City": "GENERAL EMILIO AGUINALDO",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42107"
+  },
+  {
+    "City": "GENERAL TRIAS",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42108"
+  },
+  {
+    "City": "IMUS CITY",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42109"
+  },
+  {
+    "City": "INDANG",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42110"
+  },
+  {
+    "City": "KAWIT",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42111"
+  },
+  {
+    "City": "MAGALLANES",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42112"
+  },
+  {
+    "City": "MARAGONDON",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42113"
+  },
+  {
+    "City": "MENDEZ (MENDEZ-NUﾑEZ)",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42114"
+  },
+  {
+    "City": "NAIC",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42115"
+  },
+  {
+    "City": "NOVELETA",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42116"
+  },
+  {
+    "City": "ROSARIO",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42117"
+  },
+  {
+    "City": "SILANG",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42118"
+  },
+  {
+    "City": "TAGAYTAY CITY",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42119"
+  },
+  {
+    "City": "TANZA",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42120"
+  },
+  {
+    "City": "TERNATE",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42121"
+  },
+  {
+    "City": "TRECE MARTIRES CITY (Capital)",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42122"
+  },
+  {
+    "City": "GEN. MARIANO ALVAREZ",
+    "Region_Id": "4",
+    "Province_Id": "421",
+    "City_Id": "42123"
+  },
+  {
+    "City": "ALAMINOS",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43401"
+  },
+  {
+    "City": "BAY",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43402"
+  },
+  {
+    "City": "CITY OF BIﾑAN",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43403"
+  },
+  {
+    "City": "CABUYAO CITY",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43404"
+  },
+  {
+    "City": "CITY OF CALAMBA",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43405"
+  },
+  {
+    "City": "CALAUAN",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43406"
+  },
+  {
+    "City": "CAVINTI",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43407"
+  },
+  {
+    "City": "FAMY",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43408"
+  },
+  {
+    "City": "KALAYAAN",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43409"
+  },
+  {
+    "City": "LILIW",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43410"
+  },
+  {
+    "City": "LOS BAﾑOS",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43411"
+  },
+  {
+    "City": "LUISIANA",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43412"
+  },
+  {
+    "City": "LUMBAN",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43413"
+  },
+  {
+    "City": "MABITAC",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43414"
+  },
+  {
+    "City": "MAGDALENA",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43415"
+  },
+  {
+    "City": "MAJAYJAY",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43416"
+  },
+  {
+    "City": "NAGCARLAN",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43417"
+  },
+  {
+    "City": "PAETE",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43418"
+  },
+  {
+    "City": "PAGSANJAN",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43419"
+  },
+  {
+    "City": "PAKIL",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43420"
+  },
+  {
+    "City": "PANGIL",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43421"
+  },
+  {
+    "City": "PILA",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43422"
+  },
+  {
+    "City": "RIZAL",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43423"
+  },
+  {
+    "City": "SAN PABLO CITY",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43424"
+  },
+  {
+    "City": "CITY OF SAN PEDRO",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43425"
+  },
+  {
+    "City": "SANTA CRUZ (Capital)",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43426"
+  },
+  {
+    "City": "SANTA MARIA",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43427"
+  },
+  {
+    "City": "CITY OF SANTA ROSA",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43428"
+  },
+  {
+    "City": "SINILOAN",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43429"
+  },
+  {
+    "City": "VICTORIA",
+    "Region_Id": "4",
+    "Province_Id": "434",
+    "City_Id": "43430"
+  },
+  {
+    "City": "AGDANGAN",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45601"
+  },
+  {
+    "City": "ALABAT",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45602"
+  },
+  {
+    "City": "ATIMONAN",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45603"
+  },
+  {
+    "City": "BUENAVISTA",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45605"
+  },
+  {
+    "City": "BURDEOS",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45606"
+  },
+  {
+    "City": "CALAUAG",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45607"
+  },
+  {
+    "City": "CANDELARIA",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45608"
+  },
+  {
+    "City": "CATANAUAN",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45610"
+  },
+  {
+    "City": "DOLORES",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45615"
+  },
+  {
+    "City": "GENERAL LUNA",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45616"
+  },
+  {
+    "City": "GENERAL NAKAR",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45617"
+  },
+  {
+    "City": "GUINAYANGAN",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45618"
+  },
+  {
+    "City": "GUMACA",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45619"
+  },
+  {
+    "City": "INFANTA",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45620"
+  },
+  {
+    "City": "JOMALIG",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45621"
+  },
+  {
+    "City": "LOPEZ",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45622"
+  },
+  {
+    "City": "LUCBAN",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45623"
+  },
+  {
+    "City": "LUCENA CITY (Capital)",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45624"
+  },
+  {
+    "City": "MACALELON",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45625"
+  },
+  {
+    "City": "MAUBAN",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45627"
+  },
+  {
+    "City": "MULANAY",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45628"
+  },
+  {
+    "City": "PADRE BURGOS",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45629"
+  },
+  {
+    "City": "PAGBILAO",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45630"
+  },
+  {
+    "City": "PANUKULAN",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45631"
+  },
+  {
+    "City": "PATNANUNGAN",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45632"
+  },
+  {
+    "City": "PEREZ",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45633"
+  },
+  {
+    "City": "PITOGO",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45634"
+  },
+  {
+    "City": "PLARIDEL",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45635"
+  },
+  {
+    "City": "POLILLO",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45636"
+  },
+  {
+    "City": "QUEZON",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45637"
+  },
+  {
+    "City": "REAL",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45638"
+  },
+  {
+    "City": "SAMPALOC",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45639"
+  },
+  {
+    "City": "SAN ANDRES",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45640"
+  },
+  {
+    "City": "SAN ANTONIO",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45641"
+  },
+  {
+    "City": "SAN FRANCISCO (AURORA)",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45642"
+  },
+  {
+    "City": "SAN NARCISO",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45644"
+  },
+  {
+    "City": "SARIAYA",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45645"
+  },
+  {
+    "City": "TAGKAWAYAN",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45646"
+  },
+  {
+    "City": "CITY OF TAYABAS",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45647"
+  },
+  {
+    "City": "TIAONG",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45648"
+  },
+  {
+    "City": "UNISAN",
+    "Region_Id": "4",
+    "Province_Id": "456",
+    "City_Id": "45649"
+  },
+  {
+    "City": "ANGONO",
+    "Region_Id": "4",
+    "Province_Id": "458",
+    "City_Id": "45801"
+  },
+  {
+    "City": "CITY OF ANTIPOLO",
+    "Region_Id": "4",
+    "Province_Id": "458",
+    "City_Id": "45802"
+  },
+  {
+    "City": "BARAS",
+    "Region_Id": "4",
+    "Province_Id": "458",
+    "City_Id": "45803"
+  },
+  {
+    "City": "BINANGONAN",
+    "Region_Id": "4",
+    "Province_Id": "458",
+    "City_Id": "45804"
+  },
+  {
+    "City": "CAINTA",
+    "Region_Id": "4",
+    "Province_Id": "458",
+    "City_Id": "45805"
+  },
+  {
+    "City": "CARDONA",
+    "Region_Id": "4",
+    "Province_Id": "458",
+    "City_Id": "45806"
+  },
+  {
+    "City": "JALA-JALA",
+    "Region_Id": "4",
+    "Province_Id": "458",
+    "City_Id": "45807"
+  },
+  {
+    "City": "RODRIGUEZ (MONTALBAN)",
+    "Region_Id": "4",
+    "Province_Id": "458",
+    "City_Id": "45808"
+  },
+  {
+    "City": "MORONG",
+    "Region_Id": "4",
+    "Province_Id": "458",
+    "City_Id": "45809"
+  },
+  {
+    "City": "PILILLA",
+    "Region_Id": "4",
+    "Province_Id": "458",
+    "City_Id": "45810"
+  },
+  {
+    "City": "SAN MATEO",
+    "Region_Id": "4",
+    "Province_Id": "458",
+    "City_Id": "45811"
+  },
+  {
+    "City": "TANAY",
+    "Region_Id": "4",
+    "Province_Id": "458",
+    "City_Id": "45812"
+  },
+  {
+    "City": "TAYTAY",
+    "Region_Id": "4",
+    "Province_Id": "458",
+    "City_Id": "45813"
+  },
+  {
+    "City": "TERESA",
+    "Region_Id": "4",
+    "Province_Id": "458",
+    "City_Id": "45814"
+  },
+  {
+    "City": "BOAC (Capital)",
+    "Region_Id": "17",
+    "Province_Id": "1740",
+    "City_Id": "174001"
+  },
+  {
+    "City": "BUENAVISTA",
+    "Region_Id": "17",
+    "Province_Id": "1740",
+    "City_Id": "174002"
+  },
+  {
+    "City": "GASAN",
+    "Region_Id": "17",
+    "Province_Id": "1740",
+    "City_Id": "174003"
+  },
+  {
+    "City": "MOGPOG",
+    "Region_Id": "17",
+    "Province_Id": "1740",
+    "City_Id": "174004"
+  },
+  {
+    "City": "SANTA CRUZ",
+    "Region_Id": "17",
+    "Province_Id": "1740",
+    "City_Id": "174005"
+  },
+  {
+    "City": "TORRIJOS",
+    "Region_Id": "17",
+    "Province_Id": "1740",
+    "City_Id": "174006"
+  },
+  {
+    "City": "ABRA DE ILOG",
+    "Region_Id": "17",
+    "Province_Id": "1751",
+    "City_Id": "175101"
+  },
+  {
+    "City": "CALINTAAN",
+    "Region_Id": "17",
+    "Province_Id": "1751",
+    "City_Id": "175102"
+  },
+  {
+    "City": "LOOC",
+    "Region_Id": "17",
+    "Province_Id": "1751",
+    "City_Id": "175103"
+  },
+  {
+    "City": "LUBANG",
+    "Region_Id": "17",
+    "Province_Id": "1751",
+    "City_Id": "175104"
+  },
+  {
+    "City": "MAGSAYSAY",
+    "Region_Id": "17",
+    "Province_Id": "1751",
+    "City_Id": "175105"
+  },
+  {
+    "City": "MAMBURAO (Capital)",
+    "Region_Id": "17",
+    "Province_Id": "1751",
+    "City_Id": "175106"
+  },
+  {
+    "City": "PALUAN",
+    "Region_Id": "17",
+    "Province_Id": "1751",
+    "City_Id": "175107"
+  },
+  {
+    "City": "RIZAL",
+    "Region_Id": "17",
+    "Province_Id": "1751",
+    "City_Id": "175108"
+  },
+  {
+    "City": "SABLAYAN",
+    "Region_Id": "17",
+    "Province_Id": "1751",
+    "City_Id": "175109"
+  },
+  {
+    "City": "SAN JOSE",
+    "Region_Id": "17",
+    "Province_Id": "1751",
+    "City_Id": "175110"
+  },
+  {
+    "City": "SANTA CRUZ",
+    "Region_Id": "17",
+    "Province_Id": "1751",
+    "City_Id": "175111"
+  },
+  {
+    "City": "BACO",
+    "Region_Id": "17",
+    "Province_Id": "1752",
+    "City_Id": "175201"
+  },
+  {
+    "City": "BANSUD",
+    "Region_Id": "17",
+    "Province_Id": "1752",
+    "City_Id": "175202"
+  },
+  {
+    "City": "BONGABONG",
+    "Region_Id": "17",
+    "Province_Id": "1752",
+    "City_Id": "175203"
+  },
+  {
+    "City": "BULALACAO (SAN PEDRO)",
+    "Region_Id": "17",
+    "Province_Id": "1752",
+    "City_Id": "175204"
+  },
+  {
+    "City": "CITY OF CALAPAN (Capital)",
+    "Region_Id": "17",
+    "Province_Id": "1752",
+    "City_Id": "175205"
+  },
+  {
+    "City": "GLORIA",
+    "Region_Id": "17",
+    "Province_Id": "1752",
+    "City_Id": "175206"
+  },
+  {
+    "City": "MANSALAY",
+    "Region_Id": "17",
+    "Province_Id": "1752",
+    "City_Id": "175207"
+  },
+  {
+    "City": "NAUJAN",
+    "Region_Id": "17",
+    "Province_Id": "1752",
+    "City_Id": "175208"
+  },
+  {
+    "City": "PINAMALAYAN",
+    "Region_Id": "17",
+    "Province_Id": "1752",
+    "City_Id": "175209"
+  },
+  {
+    "City": "POLA",
+    "Region_Id": "17",
+    "Province_Id": "1752",
+    "City_Id": "175210"
+  },
+  {
+    "City": "PUERTO GALERA",
+    "Region_Id": "17",
+    "Province_Id": "1752",
+    "City_Id": "175211"
+  },
+  {
+    "City": "ROXAS",
+    "Region_Id": "17",
+    "Province_Id": "1752",
+    "City_Id": "175212"
+  },
+  {
+    "City": "SAN TEODORO",
+    "Region_Id": "17",
+    "Province_Id": "1752",
+    "City_Id": "175213"
+  },
+  {
+    "City": "SOCORRO",
+    "Region_Id": "17",
+    "Province_Id": "1752",
+    "City_Id": "175214"
+  },
+  {
+    "City": "VICTORIA",
+    "Region_Id": "17",
+    "Province_Id": "1752",
+    "City_Id": "175215"
+  },
+  {
+    "City": "ABORLAN",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175301"
+  },
+  {
+    "City": "AGUTAYA",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175302"
+  },
+  {
+    "City": "ARACELI",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175303"
+  },
+  {
+    "City": "BALABAC",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175304"
+  },
+  {
+    "City": "BATARAZA",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175305"
+  },
+  {
+    "City": "BROOKE'S POINT",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175306"
+  },
+  {
+    "City": "BUSUANGA",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175307"
+  },
+  {
+    "City": "CAGAYANCILLO",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175308"
+  },
+  {
+    "City": "CORON",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175309"
+  },
+  {
+    "City": "CUYO",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175310"
+  },
+  {
+    "City": "DUMARAN",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175311"
+  },
+  {
+    "City": "EL NIDO (BACUIT)",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175312"
+  },
+  {
+    "City": "LINAPACAN",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175313"
+  },
+  {
+    "City": "MAGSAYSAY",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175314"
+  },
+  {
+    "City": "NARRA",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175315"
+  },
+  {
+    "City": "PUERTO PRINCESA CITY (Capital)",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175316"
+  },
+  {
+    "City": "QUEZON",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175317"
+  },
+  {
+    "City": "ROXAS",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175318"
+  },
+  {
+    "City": "SAN VICENTE",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175319"
+  },
+  {
+    "City": "TAYTAY",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175320"
+  },
+  {
+    "City": "KALAYAAN",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175321"
+  },
+  {
+    "City": "CULION",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175322"
+  },
+  {
+    "City": "RIZAL (MARCOS)",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175323"
+  },
+  {
+    "City": "SOFRONIO ESPAﾑOLA",
+    "Region_Id": "17",
+    "Province_Id": "1753",
+    "City_Id": "175324"
+  },
+  {
+    "City": "ALCANTARA",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175901"
+  },
+  {
+    "City": "BANTON",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175902"
+  },
+  {
+    "City": "CAJIDIOCAN",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175903"
+  },
+  {
+    "City": "CALATRAVA",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175904"
+  },
+  {
+    "City": "CONCEPCION",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175905"
+  },
+  {
+    "City": "CORCUERA",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175906"
+  },
+  {
+    "City": "LOOC",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175907"
+  },
+  {
+    "City": "MAGDIWANG",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175908"
+  },
+  {
+    "City": "ODIONGAN",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175909"
+  },
+  {
+    "City": "ROMBLON (Capital)",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175910"
+  },
+  {
+    "City": "SAN AGUSTIN",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175911"
+  },
+  {
+    "City": "SAN ANDRES",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175912"
+  },
+  {
+    "City": "SAN FERNANDO",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175913"
+  },
+  {
+    "City": "SAN JOSE",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175914"
+  },
+  {
+    "City": "SANTA FE",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175915"
+  },
+  {
+    "City": "FERROL",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175916"
+  },
+  {
+    "City": "SANTA MARIA (IMELDA)",
+    "Region_Id": "17",
+    "Province_Id": "1759",
+    "City_Id": "175917"
+  },
+  {
+    "City": "BACACAY",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50501"
+  },
+  {
+    "City": "CAMALIG",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50502"
+  },
+  {
+    "City": "DARAGA (LOCSIN)",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50503"
+  },
+  {
+    "City": "GUINOBATAN",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50504"
+  },
+  {
+    "City": "JOVELLAR",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50505"
+  },
+  {
+    "City": "LEGAZPI CITY (Capital)",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50506"
+  },
+  {
+    "City": "LIBON",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50507"
+  },
+  {
+    "City": "CITY OF LIGAO",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50508"
+  },
+  {
+    "City": "MALILIPOT",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50509"
+  },
+  {
+    "City": "MALINAO",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50510"
+  },
+  {
+    "City": "MANITO",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50511"
+  },
+  {
+    "City": "OAS",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50512"
+  },
+  {
+    "City": "PIO DURAN",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50513"
+  },
+  {
+    "City": "POLANGUI",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50514"
+  },
+  {
+    "City": "RAPU-RAPU",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50515"
+  },
+  {
+    "City": "SANTO DOMINGO (LIBOG)",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50516"
+  },
+  {
+    "City": "CITY OF TABACO",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50517"
+  },
+  {
+    "City": "TIWI",
+    "Region_Id": "5",
+    "Province_Id": "505",
+    "City_Id": "50518"
+  },
+  {
+    "City": "BASUD",
+    "Region_Id": "5",
+    "Province_Id": "516",
+    "City_Id": "51601"
+  },
+  {
+    "City": "CAPALONGA",
+    "Region_Id": "5",
+    "Province_Id": "516",
+    "City_Id": "51602"
+  },
+  {
+    "City": "DAET (Capital)",
+    "Region_Id": "5",
+    "Province_Id": "516",
+    "City_Id": "51603"
+  },
+  {
+    "City": "SAN LORENZO RUIZ (IMELDA)",
+    "Region_Id": "5",
+    "Province_Id": "516",
+    "City_Id": "51604"
+  },
+  {
+    "City": "JOSE PANGANIBAN",
+    "Region_Id": "5",
+    "Province_Id": "516",
+    "City_Id": "51605"
+  },
+  {
+    "City": "LABO",
+    "Region_Id": "5",
+    "Province_Id": "516",
+    "City_Id": "51606"
+  },
+  {
+    "City": "MERCEDES",
+    "Region_Id": "5",
+    "Province_Id": "516",
+    "City_Id": "51607"
+  },
+  {
+    "City": "PARACALE",
+    "Region_Id": "5",
+    "Province_Id": "516",
+    "City_Id": "51608"
+  },
+  {
+    "City": "SAN VICENTE",
+    "Region_Id": "5",
+    "Province_Id": "516",
+    "City_Id": "51609"
+  },
+  {
+    "City": "SANTA ELENA",
+    "Region_Id": "5",
+    "Province_Id": "516",
+    "City_Id": "51610"
+  },
+  {
+    "City": "TALISAY",
+    "Region_Id": "5",
+    "Province_Id": "516",
+    "City_Id": "51611"
+  },
+  {
+    "City": "VINZONS",
+    "Region_Id": "5",
+    "Province_Id": "516",
+    "City_Id": "51612"
+  },
+  {
+    "City": "BAAO",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51701"
+  },
+  {
+    "City": "BALATAN",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51702"
+  },
+  {
+    "City": "BATO",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51703"
+  },
+  {
+    "City": "BOMBON",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51704"
+  },
+  {
+    "City": "BUHI",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51705"
+  },
+  {
+    "City": "BULA",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51706"
+  },
+  {
+    "City": "CABUSAO",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51707"
+  },
+  {
+    "City": "CALABANGA",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51708"
+  },
+  {
+    "City": "CAMALIGAN",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51709"
+  },
+  {
+    "City": "CANAMAN",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51710"
+  },
+  {
+    "City": "CARAMOAN",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51711"
+  },
+  {
+    "City": "DEL GALLEGO",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51712"
+  },
+  {
+    "City": "GAINZA",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51713"
+  },
+  {
+    "City": "GARCHITORENA",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51714"
+  },
+  {
+    "City": "GOA",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51715"
+  },
+  {
+    "City": "IRIGA CITY",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51716"
+  },
+  {
+    "City": "LAGONOY",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51717"
+  },
+  {
+    "City": "LIBMANAN",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51718"
+  },
+  {
+    "City": "LUPI",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51719"
+  },
+  {
+    "City": "MAGARAO",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51720"
+  },
+  {
+    "City": "MILAOR",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51721"
+  },
+  {
+    "City": "MINALABAC",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51722"
+  },
+  {
+    "City": "NABUA",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51723"
+  },
+  {
+    "City": "NAGA CITY",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51724"
+  },
+  {
+    "City": "OCAMPO",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51725"
+  },
+  {
+    "City": "PAMPLONA",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51726"
+  },
+  {
+    "City": "PASACAO",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51727"
+  },
+  {
+    "City": "PILI (Capital)",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51728"
+  },
+  {
+    "City": "PRESENTACION (PARUBCAN)",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51729"
+  },
+  {
+    "City": "RAGAY",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51730"
+  },
+  {
+    "City": "SAGﾑAY",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51731"
+  },
+  {
+    "City": "SAN FERNANDO",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51732"
+  },
+  {
+    "City": "SAN JOSE",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51733"
+  },
+  {
+    "City": "SIPOCOT",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51734"
+  },
+  {
+    "City": "SIRUMA",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51735"
+  },
+  {
+    "City": "TIGAON",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51736"
+  },
+  {
+    "City": "TINAMBAC",
+    "Region_Id": "5",
+    "Province_Id": "517",
+    "City_Id": "51737"
+  },
+  {
+    "City": "BAGAMANOC",
+    "Region_Id": "5",
+    "Province_Id": "520",
+    "City_Id": "52001"
+  },
+  {
+    "City": "BARAS",
+    "Region_Id": "5",
+    "Province_Id": "520",
+    "City_Id": "52002"
+  },
+  {
+    "City": "BATO",
+    "Region_Id": "5",
+    "Province_Id": "520",
+    "City_Id": "52003"
+  },
+  {
+    "City": "CARAMORAN",
+    "Region_Id": "5",
+    "Province_Id": "520",
+    "City_Id": "52004"
+  },
+  {
+    "City": "GIGMOTO",
+    "Region_Id": "5",
+    "Province_Id": "520",
+    "City_Id": "52005"
+  },
+  {
+    "City": "PANDAN",
+    "Region_Id": "5",
+    "Province_Id": "520",
+    "City_Id": "52006"
+  },
+  {
+    "City": "PANGANIBAN (PAYO)",
+    "Region_Id": "5",
+    "Province_Id": "520",
+    "City_Id": "52007"
+  },
+  {
+    "City": "SAN ANDRES (CALOLBON)",
+    "Region_Id": "5",
+    "Province_Id": "520",
+    "City_Id": "52008"
+  },
+  {
+    "City": "SAN MIGUEL",
+    "Region_Id": "5",
+    "Province_Id": "520",
+    "City_Id": "52009"
+  },
+  {
+    "City": "VIGA",
+    "Region_Id": "5",
+    "Province_Id": "520",
+    "City_Id": "52010"
+  },
+  {
+    "City": "VIRAC (Capital)",
+    "Region_Id": "5",
+    "Province_Id": "520",
+    "City_Id": "52011"
+  },
+  {
+    "City": "AROROY",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54101"
+  },
+  {
+    "City": "BALENO",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54102"
+  },
+  {
+    "City": "BALUD",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54103"
+  },
+  {
+    "City": "BATUAN",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54104"
+  },
+  {
+    "City": "CATAINGAN",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54105"
+  },
+  {
+    "City": "CAWAYAN",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54106"
+  },
+  {
+    "City": "CLAVERIA",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54107"
+  },
+  {
+    "City": "DIMASALANG",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54108"
+  },
+  {
+    "City": "ESPERANZA",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54109"
+  },
+  {
+    "City": "MANDAON",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54110"
+  },
+  {
+    "City": "CITY OF MASBATE (Capital)",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54111"
+  },
+  {
+    "City": "MILAGROS",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54112"
+  },
+  {
+    "City": "MOBO",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54113"
+  },
+  {
+    "City": "MONREAL",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54114"
+  },
+  {
+    "City": "PALANAS",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54115"
+  },
+  {
+    "City": "PIO V. CORPUZ (LIMBUHAN)",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54116"
+  },
+  {
+    "City": "PLACER",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54117"
+  },
+  {
+    "City": "SAN FERNANDO",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54118"
+  },
+  {
+    "City": "SAN JACINTO",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54119"
+  },
+  {
+    "City": "SAN PASCUAL",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54120"
+  },
+  {
+    "City": "USON",
+    "Region_Id": "5",
+    "Province_Id": "541",
+    "City_Id": "54121"
+  },
+  {
+    "City": "BARCELONA",
+    "Region_Id": "5",
+    "Province_Id": "562",
+    "City_Id": "56202"
+  },
+  {
+    "City": "BULAN",
+    "Region_Id": "5",
+    "Province_Id": "562",
+    "City_Id": "56203"
+  },
+  {
+    "City": "BULUSAN",
+    "Region_Id": "5",
+    "Province_Id": "562",
+    "City_Id": "56204"
+  },
+  {
+    "City": "CASIGURAN",
+    "Region_Id": "5",
+    "Province_Id": "562",
+    "City_Id": "56205"
+  },
+  {
+    "City": "CASTILLA",
+    "Region_Id": "5",
+    "Province_Id": "562",
+    "City_Id": "56206"
+  },
+  {
+    "City": "DONSOL",
+    "Region_Id": "5",
+    "Province_Id": "562",
+    "City_Id": "56207"
+  },
+  {
+    "City": "GUBAT",
+    "Region_Id": "5",
+    "Province_Id": "562",
+    "City_Id": "56208"
+  },
+  {
+    "City": "IROSIN",
+    "Region_Id": "5",
+    "Province_Id": "562",
+    "City_Id": "56209"
+  },
+  {
+    "City": "JUBAN",
+    "Region_Id": "5",
+    "Province_Id": "562",
+    "City_Id": "56210"
+  },
+  {
+    "City": "MAGALLANES",
+    "Region_Id": "5",
+    "Province_Id": "562",
+    "City_Id": "56211"
+  },
+  {
+    "City": "MATNOG",
+    "Region_Id": "5",
+    "Province_Id": "562",
+    "City_Id": "56212"
+  },
+  {
+    "City": "PILAR",
+    "Region_Id": "5",
+    "Province_Id": "562",
+    "City_Id": "56213"
+  },
+  {
+    "City": "PRIETO DIAZ",
+    "Region_Id": "5",
+    "Province_Id": "562",
+    "City_Id": "56214"
+  },
+  {
+    "City": "SANTA MAGDALENA",
+    "Region_Id": "5",
+    "Province_Id": "562",
+    "City_Id": "56215"
+  },
+  {
+    "City": "CITY OF SORSOGON (Capital)",
+    "Region_Id": "5",
+    "Province_Id": "562",
+    "City_Id": "56216"
+  },
+  {
+    "City": "ALTAVAS",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60401"
+  },
+  {
+    "City": "BALETE",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60402"
+  },
+  {
+    "City": "BANGA",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60403"
+  },
+  {
+    "City": "BATAN",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60404"
+  },
+  {
+    "City": "BURUANGA",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60405"
+  },
+  {
+    "City": "IBAJAY",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60406"
+  },
+  {
+    "City": "KALIBO (Capital)",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60407"
+  },
+  {
+    "City": "LEZO",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60408"
+  },
+  {
+    "City": "LIBACAO",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60409"
+  },
+  {
+    "City": "MADALAG",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60410"
+  },
+  {
+    "City": "MAKATO",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60411"
+  },
+  {
+    "City": "MALAY",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60412"
+  },
+  {
+    "City": "MALINAO",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60413"
+  },
+  {
+    "City": "NABAS",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60414"
+  },
+  {
+    "City": "NEW WASHINGTON",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60415"
+  },
+  {
+    "City": "NUMANCIA",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60416"
+  },
+  {
+    "City": "TANGALAN",
+    "Region_Id": "6",
+    "Province_Id": "604",
+    "City_Id": "60417"
+  },
+  {
+    "City": "ANINI-Y",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60601"
+  },
+  {
+    "City": "BARBAZA",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60602"
+  },
+  {
+    "City": "BELISON",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60603"
+  },
+  {
+    "City": "BUGASONG",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60604"
+  },
+  {
+    "City": "CALUYA",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60605"
+  },
+  {
+    "City": "CULASI",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60606"
+  },
+  {
+    "City": "TOBIAS FORNIER (DAO)",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60607"
+  },
+  {
+    "City": "HAMTIC",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60608"
+  },
+  {
+    "City": "LAUA-AN",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60609"
+  },
+  {
+    "City": "LIBERTAD",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60610"
+  },
+  {
+    "City": "PANDAN",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60611"
+  },
+  {
+    "City": "PATNONGON",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60612"
+  },
+  {
+    "City": "SAN JOSE (Capital)",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60613"
+  },
+  {
+    "City": "SAN REMIGIO",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60614"
+  },
+  {
+    "City": "SEBASTE",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60615"
+  },
+  {
+    "City": "SIBALOM",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60616"
+  },
+  {
+    "City": "TIBIAO",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60617"
+  },
+  {
+    "City": "VALDERRAMA",
+    "Region_Id": "6",
+    "Province_Id": "606",
+    "City_Id": "60618"
+  },
+  {
+    "City": "CUARTERO",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61901"
+  },
+  {
+    "City": "DAO",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61902"
+  },
+  {
+    "City": "DUMALAG",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61903"
+  },
+  {
+    "City": "DUMARAO",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61904"
+  },
+  {
+    "City": "IVISAN",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61905"
+  },
+  {
+    "City": "JAMINDAN",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61906"
+  },
+  {
+    "City": "MA-AYON",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61907"
+  },
+  {
+    "City": "MAMBUSAO",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61908"
+  },
+  {
+    "City": "PANAY",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61909"
+  },
+  {
+    "City": "PANITAN",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61910"
+  },
+  {
+    "City": "PILAR",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61911"
+  },
+  {
+    "City": "PONTEVEDRA",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61912"
+  },
+  {
+    "City": "PRESIDENT ROXAS",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61913"
+  },
+  {
+    "City": "ROXAS CITY (Capital)",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61914"
+  },
+  {
+    "City": "SAPI-AN",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61915"
+  },
+  {
+    "City": "SIGMA",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61916"
+  },
+  {
+    "City": "TAPAZ",
+    "Region_Id": "6",
+    "Province_Id": "619",
+    "City_Id": "61917"
+  },
+  {
+    "City": "AJUY",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63001"
+  },
+  {
+    "City": "ALIMODIAN",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63002"
+  },
+  {
+    "City": "ANILAO",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63003"
+  },
+  {
+    "City": "BADIANGAN",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63004"
+  },
+  {
+    "City": "BALASAN",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63005"
+  },
+  {
+    "City": "BANATE",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63006"
+  },
+  {
+    "City": "BAROTAC NUEVO",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63007"
+  },
+  {
+    "City": "BAROTAC VIEJO",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63008"
+  },
+  {
+    "City": "BATAD",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63009"
+  },
+  {
+    "City": "BINGAWAN",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63010"
+  },
+  {
+    "City": "CABATUAN",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63012"
+  },
+  {
+    "City": "CALINOG",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63013"
+  },
+  {
+    "City": "CARLES",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63014"
+  },
+  {
+    "City": "CONCEPCION",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63015"
+  },
+  {
+    "City": "DINGLE",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63016"
+  },
+  {
+    "City": "DUEﾑAS",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63017"
+  },
+  {
+    "City": "DUMANGAS",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63018"
+  },
+  {
+    "City": "ESTANCIA",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63019"
+  },
+  {
+    "City": "GUIMBAL",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63020"
+  },
+  {
+    "City": "IGBARAS",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63021"
+  },
+  {
+    "City": "ILOILO CITY (Capital)",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63022"
+  },
+  {
+    "City": "JANIUAY",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63023"
+  },
+  {
+    "City": "LAMBUNAO",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63025"
+  },
+  {
+    "City": "LEGANES",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63026"
+  },
+  {
+    "City": "LEMERY",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63027"
+  },
+  {
+    "City": "LEON",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63028"
+  },
+  {
+    "City": "MAASIN",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63029"
+  },
+  {
+    "City": "MIAGAO",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63030"
+  },
+  {
+    "City": "MINA",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63031"
+  },
+  {
+    "City": "NEW LUCENA",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63032"
+  },
+  {
+    "City": "OTON",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63034"
+  },
+  {
+    "City": "CITY OF PASSI",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63035"
+  },
+  {
+    "City": "PAVIA",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63036"
+  },
+  {
+    "City": "POTOTAN",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63037"
+  },
+  {
+    "City": "SAN DIONISIO",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63038"
+  },
+  {
+    "City": "SAN ENRIQUE",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63039"
+  },
+  {
+    "City": "SAN JOAQUIN",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63040"
+  },
+  {
+    "City": "SAN MIGUEL",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63041"
+  },
+  {
+    "City": "SAN RAFAEL",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63042"
+  },
+  {
+    "City": "SANTA BARBARA",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63043"
+  },
+  {
+    "City": "SARA",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63044"
+  },
+  {
+    "City": "TIGBAUAN",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63045"
+  },
+  {
+    "City": "TUBUNGAN",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63046"
+  },
+  {
+    "City": "ZARRAGA",
+    "Region_Id": "6",
+    "Province_Id": "630",
+    "City_Id": "63047"
+  },
+  {
+    "City": "BACOLOD CITY (Capital)",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64501"
+  },
+  {
+    "City": "BAGO CITY",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64502"
+  },
+  {
+    "City": "BINALBAGAN",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64503"
+  },
+  {
+    "City": "CADIZ CITY",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64504"
+  },
+  {
+    "City": "CALATRAVA",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64505"
+  },
+  {
+    "City": "CANDONI",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64506"
+  },
+  {
+    "City": "CAUAYAN",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64507"
+  },
+  {
+    "City": "ENRIQUE B. MAGALONA (SARAVIA)",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64508"
+  },
+  {
+    "City": "CITY OF ESCALANTE",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64509"
+  },
+  {
+    "City": "CITY OF HIMAMAYLAN",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64510"
+  },
+  {
+    "City": "HINIGARAN",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64511"
+  },
+  {
+    "City": "HINOBA-AN (ASIA)",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64512"
+  },
+  {
+    "City": "ILOG",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64513"
+  },
+  {
+    "City": "ISABELA",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64514"
+  },
+  {
+    "City": "CITY OF KABANKALAN",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64515"
+  },
+  {
+    "City": "LA CARLOTA CITY",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64516"
+  },
+  {
+    "City": "LA CASTELLANA",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64517"
+  },
+  {
+    "City": "MANAPLA",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64518"
+  },
+  {
+    "City": "MOISES PADILLA (MAGALLON)",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64519"
+  },
+  {
+    "City": "MURCIA",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64520"
+  },
+  {
+    "City": "PONTEVEDRA",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64521"
+  },
+  {
+    "City": "PULUPANDAN",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64522"
+  },
+  {
+    "City": "SAGAY CITY",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64523"
+  },
+  {
+    "City": "SAN CARLOS CITY",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64524"
+  },
+  {
+    "City": "SAN ENRIQUE",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64525"
+  },
+  {
+    "City": "SILAY CITY",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64526"
+  },
+  {
+    "City": "CITY OF SIPALAY",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64527"
+  },
+  {
+    "City": "CITY OF TALISAY",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64528"
+  },
+  {
+    "City": "TOBOSO",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64529"
+  },
+  {
+    "City": "VALLADOLID",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64530"
+  },
+  {
+    "City": "CITY OF VICTORIAS",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64531"
+  },
+  {
+    "City": "SALVADOR BENEDICTO",
+    "Region_Id": "6",
+    "Province_Id": "645",
+    "City_Id": "64532"
+  },
+  {
+    "City": "BUENAVISTA",
+    "Region_Id": "6",
+    "Province_Id": "679",
+    "City_Id": "67901"
+  },
+  {
+    "City": "JORDAN (Capital)",
+    "Region_Id": "6",
+    "Province_Id": "679",
+    "City_Id": "67902"
+  },
+  {
+    "City": "NUEVA VALENCIA",
+    "Region_Id": "6",
+    "Province_Id": "679",
+    "City_Id": "67903"
+  },
+  {
+    "City": "SAN LORENZO",
+    "Region_Id": "6",
+    "Province_Id": "679",
+    "City_Id": "67904"
+  },
+  {
+    "City": "SIBUNAG",
+    "Region_Id": "6",
+    "Province_Id": "679",
+    "City_Id": "67905"
+  },
+  {
+    "City": "ALBURQUERQUE",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71201"
+  },
+  {
+    "City": "ALICIA",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71202"
+  },
+  {
+    "City": "ANDA",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71203"
+  },
+  {
+    "City": "ANTEQUERA",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71204"
+  },
+  {
+    "City": "BACLAYON",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71205"
+  },
+  {
+    "City": "BALILIHAN",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71206"
+  },
+  {
+    "City": "BATUAN",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71207"
+  },
+  {
+    "City": "BILAR",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71208"
+  },
+  {
+    "City": "BUENAVISTA",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71209"
+  },
+  {
+    "City": "CALAPE",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71210"
+  },
+  {
+    "City": "CANDIJAY",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71211"
+  },
+  {
+    "City": "CARMEN",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71212"
+  },
+  {
+    "City": "CATIGBIAN",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71213"
+  },
+  {
+    "City": "CLARIN",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71214"
+  },
+  {
+    "City": "CORELLA",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71215"
+  },
+  {
+    "City": "CORTES",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71216"
+  },
+  {
+    "City": "DAGOHOY",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71217"
+  },
+  {
+    "City": "DANAO",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71218"
+  },
+  {
+    "City": "DAUIS",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71219"
+  },
+  {
+    "City": "DIMIAO",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71220"
+  },
+  {
+    "City": "DUERO",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71221"
+  },
+  {
+    "City": "GARCIA HERNANDEZ",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71222"
+  },
+  {
+    "City": "GUINDULMAN",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71223"
+  },
+  {
+    "City": "INABANGA",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71224"
+  },
+  {
+    "City": "JAGNA",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71225"
+  },
+  {
+    "City": "JETAFE",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71226"
+  },
+  {
+    "City": "LILA",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71227"
+  },
+  {
+    "City": "LOAY",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71228"
+  },
+  {
+    "City": "LOBOC",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71229"
+  },
+  {
+    "City": "LOON",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71230"
+  },
+  {
+    "City": "MABINI",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71231"
+  },
+  {
+    "City": "MARIBOJOC",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71232"
+  },
+  {
+    "City": "PANGLAO",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71233"
+  },
+  {
+    "City": "PILAR",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71234"
+  },
+  {
+    "City": "PRES. CARLOS P. GARCIA (PITOGO)",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71235"
+  },
+  {
+    "City": "SAGBAYAN (BORJA)",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71236"
+  },
+  {
+    "City": "SAN ISIDRO",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71237"
+  },
+  {
+    "City": "SAN MIGUEL",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71238"
+  },
+  {
+    "City": "SEVILLA",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71239"
+  },
+  {
+    "City": "SIERRA BULLONES",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71240"
+  },
+  {
+    "City": "SIKATUNA",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71241"
+  },
+  {
+    "City": "TAGBILARAN CITY (Capital)",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71242"
+  },
+  {
+    "City": "TALIBON",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71243"
+  },
+  {
+    "City": "TRINIDAD",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71244"
+  },
+  {
+    "City": "TUBIGON",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71245"
+  },
+  {
+    "City": "UBAY",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71246"
+  },
+  {
+    "City": "VALENCIA",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71247"
+  },
+  {
+    "City": "BIEN UNIDO",
+    "Region_Id": "7",
+    "Province_Id": "712",
+    "City_Id": "71248"
+  },
+  {
+    "City": "ALCANTARA",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72201"
+  },
+  {
+    "City": "ALCOY",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72202"
+  },
+  {
+    "City": "ALEGRIA",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72203"
+  },
+  {
+    "City": "ALOGUINSAN",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72204"
+  },
+  {
+    "City": "ARGAO",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72205"
+  },
+  {
+    "City": "ASTURIAS",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72206"
+  },
+  {
+    "City": "BADIAN",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72207"
+  },
+  {
+    "City": "BALAMBAN",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72208"
+  },
+  {
+    "City": "BANTAYAN",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72209"
+  },
+  {
+    "City": "BARILI",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72210"
+  },
+  {
+    "City": "CITY OF BOGO",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72211"
+  },
+  {
+    "City": "BOLJOON",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72212"
+  },
+  {
+    "City": "BORBON",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72213"
+  },
+  {
+    "City": "CITY OF CARCAR",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72214"
+  },
+  {
+    "City": "CARMEN",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72215"
+  },
+  {
+    "City": "CATMON",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72216"
+  },
+  {
+    "City": "CEBU CITY (Capital)",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72217"
+  },
+  {
+    "City": "COMPOSTELA",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72218"
+  },
+  {
+    "City": "CONSOLACION",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72219"
+  },
+  {
+    "City": "CORDOVA",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72220"
+  },
+  {
+    "City": "DAANBANTAYAN",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72221"
+  },
+  {
+    "City": "DALAGUETE",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72222"
+  },
+  {
+    "City": "DANAO CITY",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72223"
+  },
+  {
+    "City": "DUMANJUG",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72224"
+  },
+  {
+    "City": "GINATILAN",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72225"
+  },
+  {
+    "City": "LAPU-LAPU CITY (OPON)",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72226"
+  },
+  {
+    "City": "LILOAN",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72227"
+  },
+  {
+    "City": "MADRIDEJOS",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72228"
+  },
+  {
+    "City": "MALABUYOC",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72229"
+  },
+  {
+    "City": "MANDAUE CITY",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72230"
+  },
+  {
+    "City": "MEDELLIN",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72231"
+  },
+  {
+    "City": "MINGLANILLA",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72232"
+  },
+  {
+    "City": "MOALBOAL",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72233"
+  },
+  {
+    "City": "CITY OF NAGA",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72234"
+  },
+  {
+    "City": "OSLOB",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72235"
+  },
+  {
+    "City": "PILAR",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72236"
+  },
+  {
+    "City": "PINAMUNGAHAN",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72237"
+  },
+  {
+    "City": "PORO",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72238"
+  },
+  {
+    "City": "RONDA",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72239"
+  },
+  {
+    "City": "SAMBOAN",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72240"
+  },
+  {
+    "City": "SAN FERNANDO",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72241"
+  },
+  {
+    "City": "SAN FRANCISCO",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72242"
+  },
+  {
+    "City": "SAN REMIGIO",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72243"
+  },
+  {
+    "City": "SANTA FE",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72244"
+  },
+  {
+    "City": "SANTANDER",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72245"
+  },
+  {
+    "City": "SIBONGA",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72246"
+  },
+  {
+    "City": "SOGOD",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72247"
+  },
+  {
+    "City": "TABOGON",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72248"
+  },
+  {
+    "City": "TABUELAN",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72249"
+  },
+  {
+    "City": "CITY OF TALISAY",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72250"
+  },
+  {
+    "City": "TOLEDO CITY",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72251"
+  },
+  {
+    "City": "TUBURAN",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72252"
+  },
+  {
+    "City": "TUDELA",
+    "Region_Id": "7",
+    "Province_Id": "722",
+    "City_Id": "72253"
+  },
+  {
+    "City": "AMLAN (AYUQUITAN)",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74601"
+  },
+  {
+    "City": "AYUNGON",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74602"
+  },
+  {
+    "City": "BACONG",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74603"
+  },
+  {
+    "City": "BAIS CITY",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74604"
+  },
+  {
+    "City": "BASAY",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74605"
+  },
+  {
+    "City": "CITY OF BAYAWAN (TULONG)",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74606"
+  },
+  {
+    "City": "BINDOY (PAYABON)",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74607"
+  },
+  {
+    "City": "CANLAON CITY",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74608"
+  },
+  {
+    "City": "DAUIN",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74609"
+  },
+  {
+    "City": "DUMAGUETE CITY (Capital)",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74610"
+  },
+  {
+    "City": "CITY OF GUIHULNGAN",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74611"
+  },
+  {
+    "City": "JIMALALUD",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74612"
+  },
+  {
+    "City": "LA LIBERTAD",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74613"
+  },
+  {
+    "City": "MABINAY",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74614"
+  },
+  {
+    "City": "MANJUYOD",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74615"
+  },
+  {
+    "City": "PAMPLONA",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74616"
+  },
+  {
+    "City": "SAN JOSE",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74617"
+  },
+  {
+    "City": "SANTA CATALINA",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74618"
+  },
+  {
+    "City": "SIATON",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74619"
+  },
+  {
+    "City": "SIBULAN",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74620"
+  },
+  {
+    "City": "CITY OF TANJAY",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74621"
+  },
+  {
+    "City": "TAYASAN",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74622"
+  },
+  {
+    "City": "VALENCIA (LUZURRIAGA)",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74623"
+  },
+  {
+    "City": "VALLEHERMOSO",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74624"
+  },
+  {
+    "City": "ZAMBOANGUITA",
+    "Region_Id": "7",
+    "Province_Id": "746",
+    "City_Id": "74625"
+  },
+  {
+    "City": "ENRIQUE VILLANUEVA",
+    "Region_Id": "7",
+    "Province_Id": "761",
+    "City_Id": "76101"
+  },
+  {
+    "City": "LARENA",
+    "Region_Id": "7",
+    "Province_Id": "761",
+    "City_Id": "76102"
+  },
+  {
+    "City": "LAZI",
+    "Region_Id": "7",
+    "Province_Id": "761",
+    "City_Id": "76103"
+  },
+  {
+    "City": "MARIA",
+    "Region_Id": "7",
+    "Province_Id": "761",
+    "City_Id": "76104"
+  },
+  {
+    "City": "SAN JUAN",
+    "Region_Id": "7",
+    "Province_Id": "761",
+    "City_Id": "76105"
+  },
+  {
+    "City": "SIQUIJOR (Capital)",
+    "Region_Id": "7",
+    "Province_Id": "761",
+    "City_Id": "76106"
+  },
+  {
+    "City": "ARTECHE",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82601"
+  },
+  {
+    "City": "BALANGIGA",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82602"
+  },
+  {
+    "City": "BALANGKAYAN",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82603"
+  },
+  {
+    "City": "CITY OF BORONGAN (Capital)",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82604"
+  },
+  {
+    "City": "CAN-AVID",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82605"
+  },
+  {
+    "City": "DOLORES",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82606"
+  },
+  {
+    "City": "GENERAL MACARTHUR",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82607"
+  },
+  {
+    "City": "GIPORLOS",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82608"
+  },
+  {
+    "City": "GUIUAN",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82609"
+  },
+  {
+    "City": "HERNANI",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82610"
+  },
+  {
+    "City": "JIPAPAD",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82611"
+  },
+  {
+    "City": "LAWAAN",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82612"
+  },
+  {
+    "City": "LLORENTE",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82613"
+  },
+  {
+    "City": "MASLOG",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82614"
+  },
+  {
+    "City": "MAYDOLONG",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82615"
+  },
+  {
+    "City": "MERCEDES",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82616"
+  },
+  {
+    "City": "ORAS",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82617"
+  },
+  {
+    "City": "QUINAPONDAN",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82618"
+  },
+  {
+    "City": "SALCEDO",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82619"
+  },
+  {
+    "City": "SAN JULIAN",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82620"
+  },
+  {
+    "City": "SAN POLICARPO",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82621"
+  },
+  {
+    "City": "SULAT",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82622"
+  },
+  {
+    "City": "TAFT",
+    "Region_Id": "8",
+    "Province_Id": "826",
+    "City_Id": "82623"
+  },
+  {
+    "City": "ABUYOG",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83701"
+  },
+  {
+    "City": "ALANGALANG",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83702"
+  },
+  {
+    "City": "ALBUERA",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83703"
+  },
+  {
+    "City": "BABATNGON",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83705"
+  },
+  {
+    "City": "BARUGO",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83706"
+  },
+  {
+    "City": "BATO",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83707"
+  },
+  {
+    "City": "CITY OF BAYBAY",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83708"
+  },
+  {
+    "City": "BURAUEN",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83710"
+  },
+  {
+    "City": "CALUBIAN",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83713"
+  },
+  {
+    "City": "CAPOOCAN",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83714"
+  },
+  {
+    "City": "CARIGARA",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83715"
+  },
+  {
+    "City": "DAGAMI",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83717"
+  },
+  {
+    "City": "DULAG",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83718"
+  },
+  {
+    "City": "HILONGOS",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83719"
+  },
+  {
+    "City": "HINDANG",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83720"
+  },
+  {
+    "City": "INOPACAN",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83721"
+  },
+  {
+    "City": "ISABEL",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83722"
+  },
+  {
+    "City": "JARO",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83723"
+  },
+  {
+    "City": "JAVIER (BUGHO)",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83724"
+  },
+  {
+    "City": "JULITA",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83725"
+  },
+  {
+    "City": "KANANGA",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83726"
+  },
+  {
+    "City": "LA PAZ",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83728"
+  },
+  {
+    "City": "LEYTE",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83729"
+  },
+  {
+    "City": "MACARTHUR",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83730"
+  },
+  {
+    "City": "MAHAPLAG",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83731"
+  },
+  {
+    "City": "MATAG-OB",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83733"
+  },
+  {
+    "City": "MATALOM",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83734"
+  },
+  {
+    "City": "MAYORGA",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83735"
+  },
+  {
+    "City": "MERIDA",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83736"
+  },
+  {
+    "City": "ORMOC CITY",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83738"
+  },
+  {
+    "City": "PALO",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83739"
+  },
+  {
+    "City": "PALOMPON",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83740"
+  },
+  {
+    "City": "PASTRANA",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83741"
+  },
+  {
+    "City": "SAN ISIDRO",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83742"
+  },
+  {
+    "City": "SAN MIGUEL",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83743"
+  },
+  {
+    "City": "SANTA FE",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83744"
+  },
+  {
+    "City": "TABANGO",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83745"
+  },
+  {
+    "City": "TABONTABON",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83746"
+  },
+  {
+    "City": "TACLOBAN CITY (Capital)",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83747"
+  },
+  {
+    "City": "TANAUAN",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83748"
+  },
+  {
+    "City": "TOLOSA",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83749"
+  },
+  {
+    "City": "TUNGA",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83750"
+  },
+  {
+    "City": "VILLABA",
+    "Region_Id": "8",
+    "Province_Id": "837",
+    "City_Id": "83751"
+  },
+  {
+    "City": "ALLEN",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84801"
+  },
+  {
+    "City": "BIRI",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84802"
+  },
+  {
+    "City": "BOBON",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84803"
+  },
+  {
+    "City": "CAPUL",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84804"
+  },
+  {
+    "City": "CATARMAN (Capital)",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84805"
+  },
+  {
+    "City": "CATUBIG",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84806"
+  },
+  {
+    "City": "GAMAY",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84807"
+  },
+  {
+    "City": "LAOANG",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84808"
+  },
+  {
+    "City": "LAPINIG",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84809"
+  },
+  {
+    "City": "LAS NAVAS",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84810"
+  },
+  {
+    "City": "LAVEZARES",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84811"
+  },
+  {
+    "City": "MAPANAS",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84812"
+  },
+  {
+    "City": "MONDRAGON",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84813"
+  },
+  {
+    "City": "PALAPAG",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84814"
+  },
+  {
+    "City": "PAMBUJAN",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84815"
+  },
+  {
+    "City": "ROSARIO",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84816"
+  },
+  {
+    "City": "SAN ANTONIO",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84817"
+  },
+  {
+    "City": "SAN ISIDRO",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84818"
+  },
+  {
+    "City": "SAN JOSE",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84819"
+  },
+  {
+    "City": "SAN ROQUE",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84820"
+  },
+  {
+    "City": "SAN VICENTE",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84821"
+  },
+  {
+    "City": "SILVINO LOBOS",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84822"
+  },
+  {
+    "City": "VICTORIA",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84823"
+  },
+  {
+    "City": "LOPE DE VEGA",
+    "Region_Id": "8",
+    "Province_Id": "848",
+    "City_Id": "84824"
+  },
+  {
+    "City": "ALMAGRO",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86001"
+  },
+  {
+    "City": "BASEY",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86002"
+  },
+  {
+    "City": "CALBAYOG CITY",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86003"
+  },
+  {
+    "City": "CALBIGA",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86004"
+  },
+  {
+    "City": "CITY OF CATBALOGAN (Capital)",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86005"
+  },
+  {
+    "City": "DARAM",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86006"
+  },
+  {
+    "City": "GANDARA",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86007"
+  },
+  {
+    "City": "HINABANGAN",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86008"
+  },
+  {
+    "City": "JIABONG",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86009"
+  },
+  {
+    "City": "MARABUT",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86010"
+  },
+  {
+    "City": "MATUGUINAO",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86011"
+  },
+  {
+    "City": "MOTIONG",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86012"
+  },
+  {
+    "City": "PINABACDAO",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86013"
+  },
+  {
+    "City": "SAN JOSE DE BUAN",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86014"
+  },
+  {
+    "City": "SAN SEBASTIAN",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86015"
+  },
+  {
+    "City": "SANTA MARGARITA",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86016"
+  },
+  {
+    "City": "SANTA RITA",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86017"
+  },
+  {
+    "City": "SANTO NIﾑO",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86018"
+  },
+  {
+    "City": "TALALORA",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86019"
+  },
+  {
+    "City": "TARANGNAN",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86020"
+  },
+  {
+    "City": "VILLAREAL",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86021"
+  },
+  {
+    "City": "PARANAS (WRIGHT)",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86022"
+  },
+  {
+    "City": "ZUMARRAGA",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86023"
+  },
+  {
+    "City": "TAGAPUL-AN",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86024"
+  },
+  {
+    "City": "SAN JORGE",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86025"
+  },
+  {
+    "City": "PAGSANGHAN",
+    "Region_Id": "8",
+    "Province_Id": "860",
+    "City_Id": "86026"
+  },
+  {
+    "City": "ANAHAWAN",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86401"
+  },
+  {
+    "City": "BONTOC",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86402"
+  },
+  {
+    "City": "HINUNANGAN",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86403"
+  },
+  {
+    "City": "HINUNDAYAN",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86404"
+  },
+  {
+    "City": "LIBAGON",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86405"
+  },
+  {
+    "City": "LILOAN",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86406"
+  },
+  {
+    "City": "CITY OF MAASIN (Capital)",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86407"
+  },
+  {
+    "City": "MACROHON",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86408"
+  },
+  {
+    "City": "MALITBOG",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86409"
+  },
+  {
+    "City": "PADRE BURGOS",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86410"
+  },
+  {
+    "City": "PINTUYAN",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86411"
+  },
+  {
+    "City": "SAINT BERNARD",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86412"
+  },
+  {
+    "City": "SAN FRANCISCO",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86413"
+  },
+  {
+    "City": "SAN JUAN (CABALIAN)",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86414"
+  },
+  {
+    "City": "SAN RICARDO",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86415"
+  },
+  {
+    "City": "SILAGO",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86416"
+  },
+  {
+    "City": "SOGOD",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86417"
+  },
+  {
+    "City": "TOMAS OPPUS",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86418"
+  },
+  {
+    "City": "LIMASAWA",
+    "Region_Id": "8",
+    "Province_Id": "864",
+    "City_Id": "86419"
+  },
+  {
+    "City": "ALMERIA",
+    "Region_Id": "8",
+    "Province_Id": "878",
+    "City_Id": "87801"
+  },
+  {
+    "City": "BILIRAN",
+    "Region_Id": "8",
+    "Province_Id": "878",
+    "City_Id": "87802"
+  },
+  {
+    "City": "CABUCGAYAN",
+    "Region_Id": "8",
+    "Province_Id": "878",
+    "City_Id": "87803"
+  },
+  {
+    "City": "CAIBIRAN",
+    "Region_Id": "8",
+    "Province_Id": "878",
+    "City_Id": "87804"
+  },
+  {
+    "City": "CULABA",
+    "Region_Id": "8",
+    "Province_Id": "878",
+    "City_Id": "87805"
+  },
+  {
+    "City": "KAWAYAN",
+    "Region_Id": "8",
+    "Province_Id": "878",
+    "City_Id": "87806"
+  },
+  {
+    "City": "MARIPIPI",
+    "Region_Id": "8",
+    "Province_Id": "878",
+    "City_Id": "87807"
+  },
+  {
+    "City": "NAVAL (Capital)",
+    "Region_Id": "8",
+    "Province_Id": "878",
+    "City_Id": "87808"
+  },
+  {
+    "City": "DAPITAN CITY",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97201"
+  },
+  {
+    "City": "DIPOLOG CITY (Capital)",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97202"
+  },
+  {
+    "City": "KATIPUNAN",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97203"
+  },
+  {
+    "City": "LA LIBERTAD",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97204"
+  },
+  {
+    "City": "LABASON",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97205"
+  },
+  {
+    "City": "LILOY",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97206"
+  },
+  {
+    "City": "MANUKAN",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97207"
+  },
+  {
+    "City": "MUTIA",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97208"
+  },
+  {
+    "City": "PIﾑAN (NEW PIﾑAN)",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97209"
+  },
+  {
+    "City": "POLANCO",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97210"
+  },
+  {
+    "City": "PRES. MANUEL A. ROXAS",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97211"
+  },
+  {
+    "City": "RIZAL",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97212"
+  },
+  {
+    "City": "SALUG",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97213"
+  },
+  {
+    "City": "SERGIO OSMEﾑA SR.",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97214"
+  },
+  {
+    "City": "SIAYAN",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97215"
+  },
+  {
+    "City": "SIBUCO",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97216"
+  },
+  {
+    "City": "SIBUTAD",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97217"
+  },
+  {
+    "City": "SINDANGAN",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97218"
+  },
+  {
+    "City": "SIOCON",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97219"
+  },
+  {
+    "City": "SIRAWAI",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97220"
+  },
+  {
+    "City": "TAMPILISAN",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97221"
+  },
+  {
+    "City": "JOSE DALMAN (PONOT)",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97222"
+  },
+  {
+    "City": "GUTALAC",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97223"
+  },
+  {
+    "City": "BALIGUIAN",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97224"
+  },
+  {
+    "City": "GODOD",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97225"
+  },
+  {
+    "City": "BACUNGAN (Leon T. Postigo)",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97226"
+  },
+  {
+    "City": "KALAWIT",
+    "Region_Id": "9",
+    "Province_Id": "972",
+    "City_Id": "97227"
+  },
+  {
+    "City": "AURORA",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97302"
+  },
+  {
+    "City": "BAYOG",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97303"
+  },
+  {
+    "City": "DIMATALING",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97305"
+  },
+  {
+    "City": "DINAS",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97306"
+  },
+  {
+    "City": "DUMALINAO",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97307"
+  },
+  {
+    "City": "DUMINGAG",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97308"
+  },
+  {
+    "City": "KUMALARANG",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97311"
+  },
+  {
+    "City": "LABANGAN",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97312"
+  },
+  {
+    "City": "LAPUYAN",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97313"
+  },
+  {
+    "City": "MAHAYAG",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97315"
+  },
+  {
+    "City": "MARGOSATUBIG",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97317"
+  },
+  {
+    "City": "MIDSALIP",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97318"
+  },
+  {
+    "City": "MOLAVE",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97319"
+  },
+  {
+    "City": "PAGADIAN CITY (Capital)",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97322"
+  },
+  {
+    "City": "RAMON MAGSAYSAY (LIARGO)",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97323"
+  },
+  {
+    "City": "SAN MIGUEL",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97324"
+  },
+  {
+    "City": "SAN PABLO",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97325"
+  },
+  {
+    "City": "TABINA",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97327"
+  },
+  {
+    "City": "TAMBULIG",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97328"
+  },
+  {
+    "City": "TUKURAN",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97330"
+  },
+  {
+    "City": "ZAMBOANGA CITY",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97332"
+  },
+  {
+    "City": "LAKEWOOD",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97333"
+  },
+  {
+    "City": "JOSEFINA",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97337"
+  },
+  {
+    "City": "PITOGO",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97338"
+  },
+  {
+    "City": "SOMINOT (DON MARIANO MARCOS)",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97340"
+  },
+  {
+    "City": "VINCENZO A. SAGUN",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97341"
+  },
+  {
+    "City": "GUIPOS",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97343"
+  },
+  {
+    "City": "TIGBAO",
+    "Region_Id": "9",
+    "Province_Id": "973",
+    "City_Id": "97344"
+  },
+  {
+    "City": "ALICIA",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98301"
+  },
+  {
+    "City": "BUUG",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98302"
+  },
+  {
+    "City": "DIPLAHAN",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98303"
+  },
+  {
+    "City": "IMELDA",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98304"
+  },
+  {
+    "City": "IPIL (Capital)",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98305"
+  },
+  {
+    "City": "KABASALAN",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98306"
+  },
+  {
+    "City": "MABUHAY",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98307"
+  },
+  {
+    "City": "MALANGAS",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98308"
+  },
+  {
+    "City": "NAGA",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98309"
+  },
+  {
+    "City": "OLUTANGA",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98310"
+  },
+  {
+    "City": "PAYAO",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98311"
+  },
+  {
+    "City": "ROSELLER LIM",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98312"
+  },
+  {
+    "City": "SIAY",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98313"
+  },
+  {
+    "City": "TALUSAN",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98314"
+  },
+  {
+    "City": "TITAY",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98315"
+  },
+  {
+    "City": "TUNGAWAN",
+    "Region_Id": "9",
+    "Province_Id": "983",
+    "City_Id": "98316"
+  },
+  {
+    "City": "CITY OF ISABELA",
+    "Region_Id": "9",
+    "Province_Id": "997",
+    "City_Id": "99701"
+  },
+  {
+    "City": "BAUNGON",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101301"
+  },
+  {
+    "City": "DAMULOG",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101302"
+  },
+  {
+    "City": "DANGCAGAN",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101303"
+  },
+  {
+    "City": "DON CARLOS",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101304"
+  },
+  {
+    "City": "IMPASUG-ONG",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101305"
+  },
+  {
+    "City": "KADINGILAN",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101306"
+  },
+  {
+    "City": "KALILANGAN",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101307"
+  },
+  {
+    "City": "KIBAWE",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101308"
+  },
+  {
+    "City": "KITAOTAO",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101309"
+  },
+  {
+    "City": "LANTAPAN",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101310"
+  },
+  {
+    "City": "LIBONA",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101311"
+  },
+  {
+    "City": "CITY OF MALAYBALAY (Capital)",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101312"
+  },
+  {
+    "City": "MALITBOG",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101313"
+  },
+  {
+    "City": "MANOLO FORTICH",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101314"
+  },
+  {
+    "City": "MARAMAG",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101315"
+  },
+  {
+    "City": "PANGANTUCAN",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101316"
+  },
+  {
+    "City": "QUEZON",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101317"
+  },
+  {
+    "City": "SAN FERNANDO",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101318"
+  },
+  {
+    "City": "SUMILAO",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101319"
+  },
+  {
+    "City": "TALAKAG",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101320"
+  },
+  {
+    "City": "CITY OF VALENCIA",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101321"
+  },
+  {
+    "City": "CABANGLASAN",
+    "Region_Id": "10",
+    "Province_Id": "1013",
+    "City_Id": "101322"
+  },
+  {
+    "City": "CATARMAN",
+    "Region_Id": "10",
+    "Province_Id": "1018",
+    "City_Id": "101801"
+  },
+  {
+    "City": "GUINSILIBAN",
+    "Region_Id": "10",
+    "Province_Id": "1018",
+    "City_Id": "101802"
+  },
+  {
+    "City": "MAHINOG",
+    "Region_Id": "10",
+    "Province_Id": "1018",
+    "City_Id": "101803"
+  },
+  {
+    "City": "MAMBAJAO (Capital)",
+    "Region_Id": "10",
+    "Province_Id": "1018",
+    "City_Id": "101804"
+  },
+  {
+    "City": "SAGAY",
+    "Region_Id": "10",
+    "Province_Id": "1018",
+    "City_Id": "101805"
+  },
+  {
+    "City": "BACOLOD",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103501"
+  },
+  {
+    "City": "BALOI",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103502"
+  },
+  {
+    "City": "BAROY",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103503"
+  },
+  {
+    "City": "ILIGAN CITY",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103504"
+  },
+  {
+    "City": "KAPATAGAN",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103505"
+  },
+  {
+    "City": "SULTAN NAGA DIMAPORO (KAROMATAN)",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103506"
+  },
+  {
+    "City": "KAUSWAGAN",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103507"
+  },
+  {
+    "City": "KOLAMBUGAN",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103508"
+  },
+  {
+    "City": "LALA",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103509"
+  },
+  {
+    "City": "LINAMON",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103510"
+  },
+  {
+    "City": "MAGSAYSAY",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103511"
+  },
+  {
+    "City": "MAIGO",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103512"
+  },
+  {
+    "City": "MATUNGAO",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103513"
+  },
+  {
+    "City": "MUNAI",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103514"
+  },
+  {
+    "City": "NUNUNGAN",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103515"
+  },
+  {
+    "City": "PANTAO RAGAT",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103516"
+  },
+  {
+    "City": "POONA PIAGAPO",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103517"
+  },
+  {
+    "City": "SALVADOR",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103518"
+  },
+  {
+    "City": "SAPAD",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103519"
+  },
+  {
+    "City": "TAGOLOAN",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103520"
+  },
+  {
+    "City": "TANGCAL",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103521"
+  },
+  {
+    "City": "TUBOD (Capital)",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103522"
+  },
+  {
+    "City": "PANTAR",
+    "Region_Id": "10",
+    "Province_Id": "1035",
+    "City_Id": "103523"
+  },
+  {
+    "City": "ALORAN",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104201"
+  },
+  {
+    "City": "BALIANGAO",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104202"
+  },
+  {
+    "City": "BONIFACIO",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104203"
+  },
+  {
+    "City": "CALAMBA",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104204"
+  },
+  {
+    "City": "CLARIN",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104205"
+  },
+  {
+    "City": "CONCEPCION",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104206"
+  },
+  {
+    "City": "JIMENEZ",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104207"
+  },
+  {
+    "City": "LOPEZ JAENA",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104208"
+  },
+  {
+    "City": "OROQUIETA CITY (Capital)",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104209"
+  },
+  {
+    "City": "OZAMIS CITY",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104210"
+  },
+  {
+    "City": "PANAON",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104211"
+  },
+  {
+    "City": "PLARIDEL",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104212"
+  },
+  {
+    "City": "SAPANG DALAGA",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104213"
+  },
+  {
+    "City": "SINACABAN",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104214"
+  },
+  {
+    "City": "TANGUB CITY",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104215"
+  },
+  {
+    "City": "TUDELA",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104216"
+  },
+  {
+    "City": "DON VICTORIANO CHIONGBIAN  (DON MARIANO MARCOS)",
+    "Region_Id": "10",
+    "Province_Id": "1042",
+    "City_Id": "104217"
+  },
+  {
+    "City": "ALUBIJID",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104301"
+  },
+  {
+    "City": "BALINGASAG",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104302"
+  },
+  {
+    "City": "BALINGOAN",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104303"
+  },
+  {
+    "City": "BINUANGAN",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104304"
+  },
+  {
+    "City": "CAGAYAN DE ORO CITY (Capital)",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104305"
+  },
+  {
+    "City": "CLAVERIA",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104306"
+  },
+  {
+    "City": "CITY OF EL SALVADOR",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104307"
+  },
+  {
+    "City": "GINGOOG CITY",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104308"
+  },
+  {
+    "City": "GITAGUM",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104309"
+  },
+  {
+    "City": "INITAO",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104310"
+  },
+  {
+    "City": "JASAAN",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104311"
+  },
+  {
+    "City": "KINOGUITAN",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104312"
+  },
+  {
+    "City": "LAGONGLONG",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104313"
+  },
+  {
+    "City": "LAGUINDINGAN",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104314"
+  },
+  {
+    "City": "LIBERTAD",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104315"
+  },
+  {
+    "City": "LUGAIT",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104316"
+  },
+  {
+    "City": "MAGSAYSAY (LINUGOS)",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104317"
+  },
+  {
+    "City": "MANTICAO",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104318"
+  },
+  {
+    "City": "MEDINA",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104319"
+  },
+  {
+    "City": "NAAWAN",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104320"
+  },
+  {
+    "City": "OPOL",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104321"
+  },
+  {
+    "City": "SALAY",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104322"
+  },
+  {
+    "City": "SUGBONGCOGON",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104323"
+  },
+  {
+    "City": "TAGOLOAN",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104324"
+  },
+  {
+    "City": "TALISAYAN",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104325"
+  },
+  {
+    "City": "VILLANUEVA",
+    "Region_Id": "10",
+    "Province_Id": "1043",
+    "City_Id": "104326"
+  },
+  {
+    "City": "ASUNCION (SAUG)",
+    "Region_Id": "11",
+    "Province_Id": "1123",
+    "City_Id": "112301"
+  },
+  {
+    "City": "CARMEN",
+    "Region_Id": "11",
+    "Province_Id": "1123",
+    "City_Id": "112303"
+  },
+  {
+    "City": "KAPALONG",
+    "Region_Id": "11",
+    "Province_Id": "1123",
+    "City_Id": "112305"
+  },
+  {
+    "City": "NEW CORELLA",
+    "Region_Id": "11",
+    "Province_Id": "1123",
+    "City_Id": "112314"
+  },
+  {
+    "City": "CITY OF PANABO",
+    "Region_Id": "11",
+    "Province_Id": "1123",
+    "City_Id": "112315"
+  },
+  {
+    "City": "ISLAND GARDEN CITY OF SAMAL",
+    "Region_Id": "11",
+    "Province_Id": "1123",
+    "City_Id": "112317"
+  },
+  {
+    "City": "SANTO TOMAS",
+    "Region_Id": "11",
+    "Province_Id": "1123",
+    "City_Id": "112318"
+  },
+  {
+    "City": "CITY OF TAGUM (Capital)",
+    "Region_Id": "11",
+    "Province_Id": "1123",
+    "City_Id": "112319"
+  },
+  {
+    "City": "TALAINGOD",
+    "Region_Id": "11",
+    "Province_Id": "1123",
+    "City_Id": "112322"
+  },
+  {
+    "City": "BRAULIO E. DUJALI",
+    "Region_Id": "11",
+    "Province_Id": "1123",
+    "City_Id": "112323"
+  },
+  {
+    "City": "SAN ISIDRO",
+    "Region_Id": "11",
+    "Province_Id": "1123",
+    "City_Id": "112324"
+  },
+  {
+    "City": "BANSALAN",
+    "Region_Id": "11",
+    "Province_Id": "1124",
+    "City_Id": "112401"
+  },
+  {
+    "City": "DAVAO CITY",
+    "Region_Id": "11",
+    "Province_Id": "1124",
+    "City_Id": "112402"
+  },
+  {
+    "City": "CITY OF DIGOS (Capital)",
+    "Region_Id": "11",
+    "Province_Id": "1124",
+    "City_Id": "112403"
+  },
+  {
+    "City": "HAGONOY",
+    "Region_Id": "11",
+    "Province_Id": "1124",
+    "City_Id": "112404"
+  },
+  {
+    "City": "KIBLAWAN",
+    "Region_Id": "11",
+    "Province_Id": "1124",
+    "City_Id": "112406"
+  },
+  {
+    "City": "MAGSAYSAY",
+    "Region_Id": "11",
+    "Province_Id": "1124",
+    "City_Id": "112407"
+  },
+  {
+    "City": "MALALAG",
+    "Region_Id": "11",
+    "Province_Id": "1124",
+    "City_Id": "112408"
+  },
+  {
+    "City": "MATANAO",
+    "Region_Id": "11",
+    "Province_Id": "1124",
+    "City_Id": "112410"
+  },
+  {
+    "City": "PADADA",
+    "Region_Id": "11",
+    "Province_Id": "1124",
+    "City_Id": "112411"
+  },
+  {
+    "City": "SANTA CRUZ",
+    "Region_Id": "11",
+    "Province_Id": "1124",
+    "City_Id": "112412"
+  },
+  {
+    "City": "SULOP",
+    "Region_Id": "11",
+    "Province_Id": "1124",
+    "City_Id": "112414"
+  },
+  {
+    "City": "BAGANGA",
+    "Region_Id": "11",
+    "Province_Id": "1125",
+    "City_Id": "112501"
+  },
+  {
+    "City": "BANAYBANAY",
+    "Region_Id": "11",
+    "Province_Id": "1125",
+    "City_Id": "112502"
+  },
+  {
+    "City": "BOSTON",
+    "Region_Id": "11",
+    "Province_Id": "1125",
+    "City_Id": "112503"
+  },
+  {
+    "City": "CARAGA",
+    "Region_Id": "11",
+    "Province_Id": "1125",
+    "City_Id": "112504"
+  },
+  {
+    "City": "CATEEL",
+    "Region_Id": "11",
+    "Province_Id": "1125",
+    "City_Id": "112505"
+  },
+  {
+    "City": "GOVERNOR GENEROSO",
+    "Region_Id": "11",
+    "Province_Id": "1125",
+    "City_Id": "112506"
+  },
+  {
+    "City": "LUPON",
+    "Region_Id": "11",
+    "Province_Id": "1125",
+    "City_Id": "112507"
+  },
+  {
+    "City": "MANAY",
+    "Region_Id": "11",
+    "Province_Id": "1125",
+    "City_Id": "112508"
+  },
+  {
+    "City": "CITY OF MATI (Capital)",
+    "Region_Id": "11",
+    "Province_Id": "1125",
+    "City_Id": "112509"
+  },
+  {
+    "City": "SAN ISIDRO",
+    "Region_Id": "11",
+    "Province_Id": "1125",
+    "City_Id": "112510"
+  },
+  {
+    "City": "TARRAGONA",
+    "Region_Id": "11",
+    "Province_Id": "1125",
+    "City_Id": "112511"
+  },
+  {
+    "City": "COMPOSTELA",
+    "Region_Id": "11",
+    "Province_Id": "1182",
+    "City_Id": "118201"
+  },
+  {
+    "City": "LAAK (SAN VICENTE)",
+    "Region_Id": "11",
+    "Province_Id": "1182",
+    "City_Id": "118202"
+  },
+  {
+    "City": "MABINI (DOﾑA ALICIA)",
+    "Region_Id": "11",
+    "Province_Id": "1182",
+    "City_Id": "118203"
+  },
+  {
+    "City": "MACO",
+    "Region_Id": "11",
+    "Province_Id": "1182",
+    "City_Id": "118204"
+  },
+  {
+    "City": "MARAGUSAN (SAN MARIANO)",
+    "Region_Id": "11",
+    "Province_Id": "1182",
+    "City_Id": "118205"
+  },
+  {
+    "City": "MAWAB",
+    "Region_Id": "11",
+    "Province_Id": "1182",
+    "City_Id": "118206"
+  },
+  {
+    "City": "MONKAYO",
+    "Region_Id": "11",
+    "Province_Id": "1182",
+    "City_Id": "118207"
+  },
+  {
+    "City": "MONTEVISTA",
+    "Region_Id": "11",
+    "Province_Id": "1182",
+    "City_Id": "118208"
+  },
+  {
+    "City": "NABUNTURAN (Capital)",
+    "Region_Id": "11",
+    "Province_Id": "1182",
+    "City_Id": "118209"
+  },
+  {
+    "City": "NEW BATAAN",
+    "Region_Id": "11",
+    "Province_Id": "1182",
+    "City_Id": "118210"
+  },
+  {
+    "City": "PANTUKAN",
+    "Region_Id": "11",
+    "Province_Id": "1182",
+    "City_Id": "118211"
+  },
+  {
+    "City": "DON MARCELINO",
+    "Region_Id": "11",
+    "Province_Id": "1186",
+    "City_Id": "118601"
+  },
+  {
+    "City": "JOSE ABAD SANTOS (TRINIDAD)",
+    "Region_Id": "11",
+    "Province_Id": "1186",
+    "City_Id": "118602"
+  },
+  {
+    "City": "MALITA",
+    "Region_Id": "11",
+    "Province_Id": "1186",
+    "City_Id": "118603"
+  },
+  {
+    "City": "SANTA MARIA",
+    "Region_Id": "11",
+    "Province_Id": "1186",
+    "City_Id": "118604"
+  },
+  {
+    "City": "SARANGANI",
+    "Region_Id": "11",
+    "Province_Id": "1186",
+    "City_Id": "118605"
+  },
+  {
+    "City": "ALAMADA",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124701"
+  },
+  {
+    "City": "CARMEN",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124702"
+  },
+  {
+    "City": "KABACAN",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124703"
+  },
+  {
+    "City": "CITY OF KIDAPAWAN (Capital)",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124704"
+  },
+  {
+    "City": "LIBUNGAN",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124705"
+  },
+  {
+    "City": "MAGPET",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124706"
+  },
+  {
+    "City": "MAKILALA",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124707"
+  },
+  {
+    "City": "MATALAM",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124708"
+  },
+  {
+    "City": "MIDSAYAP",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124709"
+  },
+  {
+    "City": "M'LANG",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124710"
+  },
+  {
+    "City": "PIGKAWAYAN",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124711"
+  },
+  {
+    "City": "PIKIT",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124712"
+  },
+  {
+    "City": "PRESIDENT ROXAS",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124713"
+  },
+  {
+    "City": "TULUNAN",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124714"
+  },
+  {
+    "City": "ANTIPAS",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124715"
+  },
+  {
+    "City": "BANISILAN",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124716"
+  },
+  {
+    "City": "ALEOSAN",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124717"
+  },
+  {
+    "City": "ARAKAN",
+    "Region_Id": "12",
+    "Province_Id": "1247",
+    "City_Id": "124718"
+  },
+  {
+    "City": "BANGA",
+    "Region_Id": "12",
+    "Province_Id": "1263",
+    "City_Id": "126302"
+  },
+  {
+    "City": "GENERAL SANTOS CITY (DADIANGAS)",
+    "Region_Id": "12",
+    "Province_Id": "1263",
+    "City_Id": "126303"
+  },
+  {
+    "City": "CITY OF KORONADAL (Capital)",
+    "Region_Id": "12",
+    "Province_Id": "1263",
+    "City_Id": "126306"
+  },
+  {
+    "City": "NORALA",
+    "Region_Id": "12",
+    "Province_Id": "1263",
+    "City_Id": "126311"
+  },
+  {
+    "City": "POLOMOLOK",
+    "Region_Id": "12",
+    "Province_Id": "1263",
+    "City_Id": "126312"
+  },
+  {
+    "City": "SURALLAH",
+    "Region_Id": "12",
+    "Province_Id": "1263",
+    "City_Id": "126313"
+  },
+  {
+    "City": "TAMPAKAN",
+    "Region_Id": "12",
+    "Province_Id": "1263",
+    "City_Id": "126314"
+  },
+  {
+    "City": "TANTANGAN",
+    "Region_Id": "12",
+    "Province_Id": "1263",
+    "City_Id": "126315"
+  },
+  {
+    "City": "T'BOLI",
+    "Region_Id": "12",
+    "Province_Id": "1263",
+    "City_Id": "126316"
+  },
+  {
+    "City": "TUPI",
+    "Region_Id": "12",
+    "Province_Id": "1263",
+    "City_Id": "126317"
+  },
+  {
+    "City": "SANTO NIﾑO",
+    "Region_Id": "12",
+    "Province_Id": "1263",
+    "City_Id": "126318"
+  },
+  {
+    "City": "LAKE SEBU",
+    "Region_Id": "12",
+    "Province_Id": "1263",
+    "City_Id": "126319"
+  },
+  {
+    "City": "BAGUMBAYAN",
+    "Region_Id": "12",
+    "Province_Id": "1265",
+    "City_Id": "126501"
+  },
+  {
+    "City": "COLUMBIO",
+    "Region_Id": "12",
+    "Province_Id": "1265",
+    "City_Id": "126502"
+  },
+  {
+    "City": "ESPERANZA",
+    "Region_Id": "12",
+    "Province_Id": "1265",
+    "City_Id": "126503"
+  },
+  {
+    "City": "ISULAN (Capital)",
+    "Region_Id": "12",
+    "Province_Id": "1265",
+    "City_Id": "126504"
+  },
+  {
+    "City": "KALAMANSIG",
+    "Region_Id": "12",
+    "Province_Id": "1265",
+    "City_Id": "126505"
+  },
+  {
+    "City": "LEBAK",
+    "Region_Id": "12",
+    "Province_Id": "1265",
+    "City_Id": "126506"
+  },
+  {
+    "City": "LUTAYAN",
+    "Region_Id": "12",
+    "Province_Id": "1265",
+    "City_Id": "126507"
+  },
+  {
+    "City": "LAMBAYONG (MARIANO MARCOS)",
+    "Region_Id": "12",
+    "Province_Id": "1265",
+    "City_Id": "126508"
+  },
+  {
+    "City": "PALIMBANG",
+    "Region_Id": "12",
+    "Province_Id": "1265",
+    "City_Id": "126509"
+  },
+  {
+    "City": "PRESIDENT QUIRINO",
+    "Region_Id": "12",
+    "Province_Id": "1265",
+    "City_Id": "126510"
+  },
+  {
+    "City": "CITY OF TACURONG",
+    "Region_Id": "12",
+    "Province_Id": "1265",
+    "City_Id": "126511"
+  },
+  {
+    "City": "SEN. NINOY AQUINO",
+    "Region_Id": "12",
+    "Province_Id": "1265",
+    "City_Id": "126512"
+  },
+  {
+    "City": "ALABEL (Capital)",
+    "Region_Id": "12",
+    "Province_Id": "1280",
+    "City_Id": "128001"
+  },
+  {
+    "City": "GLAN",
+    "Region_Id": "12",
+    "Province_Id": "1280",
+    "City_Id": "128002"
+  },
+  {
+    "City": "KIAMBA",
+    "Region_Id": "12",
+    "Province_Id": "1280",
+    "City_Id": "128003"
+  },
+  {
+    "City": "MAASIM",
+    "Region_Id": "12",
+    "Province_Id": "1280",
+    "City_Id": "128004"
+  },
+  {
+    "City": "MAITUM",
+    "Region_Id": "12",
+    "Province_Id": "1280",
+    "City_Id": "128005"
+  },
+  {
+    "City": "MALAPATAN",
+    "Region_Id": "12",
+    "Province_Id": "1280",
+    "City_Id": "128006"
+  },
+  {
+    "City": "MALUNGON",
+    "Region_Id": "12",
+    "Province_Id": "1280",
+    "City_Id": "128007"
+  },
+  {
+    "City": "COTABATO CITY",
+    "Region_Id": "12",
+    "Province_Id": "1298",
+    "City_Id": "129804"
+  },
+  {
+    "City": "TONDO I / II",
+    "Region_Id": "13",
+    "Province_Id": "1339",
+    "City_Id": "133901"
+  },
+  {
+    "City": "BINONDO",
+    "Region_Id": "13",
+    "Province_Id": "1339",
+    "City_Id": "133902"
+  },
+  {
+    "City": "QUIAPO",
+    "Region_Id": "13",
+    "Province_Id": "1339",
+    "City_Id": "133903"
+  },
+  {
+    "City": "SAN NICOLAS",
+    "Region_Id": "13",
+    "Province_Id": "1339",
+    "City_Id": "133904"
+  },
+  {
+    "City": "SANTA CRUZ",
+    "Region_Id": "13",
+    "Province_Id": "1339",
+    "City_Id": "133905"
+  },
+  {
+    "City": "SAMPALOC",
+    "Region_Id": "13",
+    "Province_Id": "1339",
+    "City_Id": "133906"
+  },
+  {
+    "City": "SAN MIGUEL",
+    "Region_Id": "13",
+    "Province_Id": "1339",
+    "City_Id": "133907"
+  },
+  {
+    "City": "ERMITA",
+    "Region_Id": "13",
+    "Province_Id": "1339",
+    "City_Id": "133908"
+  },
+  {
+    "City": "INTRAMUROS",
+    "Region_Id": "13",
+    "Province_Id": "1339",
+    "City_Id": "133909"
+  },
+  {
+    "City": "MALATE",
+    "Region_Id": "13",
+    "Province_Id": "1339",
+    "City_Id": "133910"
+  },
+  {
+    "City": "PACO",
+    "Region_Id": "13",
+    "Province_Id": "1339",
+    "City_Id": "133911"
+  },
+  {
+    "City": "PANDACAN",
+    "Region_Id": "13",
+    "Province_Id": "1339",
+    "City_Id": "133912"
+  },
+  {
+    "City": "PORT AREA",
+    "Region_Id": "13",
+    "Province_Id": "1339",
+    "City_Id": "133913"
+  },
+  {
+    "City": "SANTA ANA",
+    "Region_Id": "13",
+    "Province_Id": "1339",
+    "City_Id": "133914"
+  },
+  {
+    "City": "CITY OF MANDALUYONG",
+    "Region_Id": "13",
+    "Province_Id": "1374",
+    "City_Id": "137401"
+  },
+  {
+    "City": "CITY OF MARIKINA",
+    "Region_Id": "13",
+    "Province_Id": "1374",
+    "City_Id": "137402"
+  },
+  {
+    "City": "CITY OF PASIG",
+    "Region_Id": "13",
+    "Province_Id": "1374",
+    "City_Id": "137403"
+  },
+  {
+    "City": "QUEZON CITY",
+    "Region_Id": "13",
+    "Province_Id": "1374",
+    "City_Id": "137404"
+  },
+  {
+    "City": "CITY OF SAN JUAN",
+    "Region_Id": "13",
+    "Province_Id": "1374",
+    "City_Id": "137405"
+  },
+  {
+    "City": "CALOOCAN CITY",
+    "Region_Id": "13",
+    "Province_Id": "1375",
+    "City_Id": "137501"
+  },
+  {
+    "City": "CITY OF MALABON",
+    "Region_Id": "13",
+    "Province_Id": "1375",
+    "City_Id": "137502"
+  },
+  {
+    "City": "CITY OF NAVOTAS",
+    "Region_Id": "13",
+    "Province_Id": "1375",
+    "City_Id": "137503"
+  },
+  {
+    "City": "CITY OF VALENZUELA",
+    "Region_Id": "13",
+    "Province_Id": "1375",
+    "City_Id": "137504"
+  },
+  {
+    "City": "CITY OF LAS PIﾑAS",
+    "Region_Id": "13",
+    "Province_Id": "1376",
+    "City_Id": "137601"
+  },
+  {
+    "City": "CITY OF MAKATI",
+    "Region_Id": "13",
+    "Province_Id": "1376",
+    "City_Id": "137602"
+  },
+  {
+    "City": "CITY OF MUNTINLUPA",
+    "Region_Id": "13",
+    "Province_Id": "1376",
+    "City_Id": "137603"
+  },
+  {
+    "City": "CITY OF PARAﾑAQUE",
+    "Region_Id": "13",
+    "Province_Id": "1376",
+    "City_Id": "137604"
+  },
+  {
+    "City": "PASAY CITY",
+    "Region_Id": "13",
+    "Province_Id": "1376",
+    "City_Id": "137605"
+  },
+  {
+    "City": "PATEROS",
+    "Region_Id": "13",
+    "Province_Id": "1376",
+    "City_Id": "137606"
+  },
+  {
+    "City": "TAGUIG CITY",
+    "Region_Id": "13",
+    "Province_Id": "1376",
+    "City_Id": "137607"
+  },
+  {
+    "City": "BANGUED (Capital)",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140101"
+  },
+  {
+    "City": "BOLINEY",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140102"
+  },
+  {
+    "City": "BUCAY",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140103"
+  },
+  {
+    "City": "BUCLOC",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140104"
+  },
+  {
+    "City": "DAGUIOMAN",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140105"
+  },
+  {
+    "City": "DANGLAS",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140106"
+  },
+  {
+    "City": "DOLORES",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140107"
+  },
+  {
+    "City": "LA PAZ",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140108"
+  },
+  {
+    "City": "LACUB",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140109"
+  },
+  {
+    "City": "LAGANGILANG",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140110"
+  },
+  {
+    "City": "LAGAYAN",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140111"
+  },
+  {
+    "City": "LANGIDEN",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140112"
+  },
+  {
+    "City": "LICUAN-BAAY (LICUAN)",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140113"
+  },
+  {
+    "City": "LUBA",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140114"
+  },
+  {
+    "City": "MALIBCONG",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140115"
+  },
+  {
+    "City": "MANABO",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140116"
+  },
+  {
+    "City": "PEﾑARRUBIA",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140117"
+  },
+  {
+    "City": "PIDIGAN",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140118"
+  },
+  {
+    "City": "PILAR",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140119"
+  },
+  {
+    "City": "SALLAPADAN",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140120"
+  },
+  {
+    "City": "SAN ISIDRO",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140121"
+  },
+  {
+    "City": "SAN JUAN",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140122"
+  },
+  {
+    "City": "SAN QUINTIN",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140123"
+  },
+  {
+    "City": "TAYUM",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140124"
+  },
+  {
+    "City": "TINEG",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140125"
+  },
+  {
+    "City": "TUBO",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140126"
+  },
+  {
+    "City": "VILLAVICIOSA",
+    "Region_Id": "14",
+    "Province_Id": "1401",
+    "City_Id": "140127"
+  },
+  {
+    "City": "ATOK",
+    "Region_Id": "14",
+    "Province_Id": "1411",
+    "City_Id": "141101"
+  },
+  {
+    "City": "BAGUIO CITY",
+    "Region_Id": "14",
+    "Province_Id": "1411",
+    "City_Id": "141102"
+  },
+  {
+    "City": "BAKUN",
+    "Region_Id": "14",
+    "Province_Id": "1411",
+    "City_Id": "141103"
+  },
+  {
+    "City": "BOKOD",
+    "Region_Id": "14",
+    "Province_Id": "1411",
+    "City_Id": "141104"
+  },
+  {
+    "City": "BUGUIAS",
+    "Region_Id": "14",
+    "Province_Id": "1411",
+    "City_Id": "141105"
+  },
+  {
+    "City": "ITOGON",
+    "Region_Id": "14",
+    "Province_Id": "1411",
+    "City_Id": "141106"
+  },
+  {
+    "City": "KABAYAN",
+    "Region_Id": "14",
+    "Province_Id": "1411",
+    "City_Id": "141107"
+  },
+  {
+    "City": "KAPANGAN",
+    "Region_Id": "14",
+    "Province_Id": "1411",
+    "City_Id": "141108"
+  },
+  {
+    "City": "KIBUNGAN",
+    "Region_Id": "14",
+    "Province_Id": "1411",
+    "City_Id": "141109"
+  },
+  {
+    "City": "LA TRINIDAD (Capital)",
+    "Region_Id": "14",
+    "Province_Id": "1411",
+    "City_Id": "141110"
+  },
+  {
+    "City": "MANKAYAN",
+    "Region_Id": "14",
+    "Province_Id": "1411",
+    "City_Id": "141111"
+  },
+  {
+    "City": "SABLAN",
+    "Region_Id": "14",
+    "Province_Id": "1411",
+    "City_Id": "141112"
+  },
+  {
+    "City": "TUBA",
+    "Region_Id": "14",
+    "Province_Id": "1411",
+    "City_Id": "141113"
+  },
+  {
+    "City": "TUBLAY",
+    "Region_Id": "14",
+    "Province_Id": "1411",
+    "City_Id": "141114"
+  },
+  {
+    "City": "BANAUE",
+    "Region_Id": "14",
+    "Province_Id": "1427",
+    "City_Id": "142701"
+  },
+  {
+    "City": "HUNGDUAN",
+    "Region_Id": "14",
+    "Province_Id": "1427",
+    "City_Id": "142702"
+  },
+  {
+    "City": "KIANGAN",
+    "Region_Id": "14",
+    "Province_Id": "1427",
+    "City_Id": "142703"
+  },
+  {
+    "City": "LAGAWE (Capital)",
+    "Region_Id": "14",
+    "Province_Id": "1427",
+    "City_Id": "142704"
+  },
+  {
+    "City": "LAMUT",
+    "Region_Id": "14",
+    "Province_Id": "1427",
+    "City_Id": "142705"
+  },
+  {
+    "City": "MAYOYAO",
+    "Region_Id": "14",
+    "Province_Id": "1427",
+    "City_Id": "142706"
+  },
+  {
+    "City": "ALFONSO LISTA (POTIA)",
+    "Region_Id": "14",
+    "Province_Id": "1427",
+    "City_Id": "142707"
+  },
+  {
+    "City": "AGUINALDO",
+    "Region_Id": "14",
+    "Province_Id": "1427",
+    "City_Id": "142708"
+  },
+  {
+    "City": "HINGYON",
+    "Region_Id": "14",
+    "Province_Id": "1427",
+    "City_Id": "142709"
+  },
+  {
+    "City": "TINOC",
+    "Region_Id": "14",
+    "Province_Id": "1427",
+    "City_Id": "142710"
+  },
+  {
+    "City": "ASIPULO",
+    "Region_Id": "14",
+    "Province_Id": "1427",
+    "City_Id": "142711"
+  },
+  {
+    "City": "BALBALAN",
+    "Region_Id": "14",
+    "Province_Id": "1432",
+    "City_Id": "143201"
+  },
+  {
+    "City": "LUBUAGAN",
+    "Region_Id": "14",
+    "Province_Id": "1432",
+    "City_Id": "143206"
+  },
+  {
+    "City": "PASIL",
+    "Region_Id": "14",
+    "Province_Id": "1432",
+    "City_Id": "143208"
+  },
+  {
+    "City": "PINUKPUK",
+    "Region_Id": "14",
+    "Province_Id": "1432",
+    "City_Id": "143209"
+  },
+  {
+    "City": "RIZAL (LIWAN)",
+    "Region_Id": "14",
+    "Province_Id": "1432",
+    "City_Id": "143211"
+  },
+  {
+    "City": "CITY OF TABUK (Capital)",
+    "Region_Id": "14",
+    "Province_Id": "1432",
+    "City_Id": "143213"
+  },
+  {
+    "City": "TANUDAN",
+    "Region_Id": "14",
+    "Province_Id": "1432",
+    "City_Id": "143214"
+  },
+  {
+    "City": "TINGLAYAN",
+    "Region_Id": "14",
+    "Province_Id": "1432",
+    "City_Id": "143215"
+  },
+  {
+    "City": "BARLIG",
+    "Region_Id": "14",
+    "Province_Id": "1444",
+    "City_Id": "144401"
+  },
+  {
+    "City": "BAUKO",
+    "Region_Id": "14",
+    "Province_Id": "1444",
+    "City_Id": "144402"
+  },
+  {
+    "City": "BESAO",
+    "Region_Id": "14",
+    "Province_Id": "1444",
+    "City_Id": "144403"
+  },
+  {
+    "City": "BONTOC (Capital)",
+    "Region_Id": "14",
+    "Province_Id": "1444",
+    "City_Id": "144404"
+  },
+  {
+    "City": "NATONIN",
+    "Region_Id": "14",
+    "Province_Id": "1444",
+    "City_Id": "144405"
+  },
+  {
+    "City": "PARACELIS",
+    "Region_Id": "14",
+    "Province_Id": "1444",
+    "City_Id": "144406"
+  },
+  {
+    "City": "SABANGAN",
+    "Region_Id": "14",
+    "Province_Id": "1444",
+    "City_Id": "144407"
+  },
+  {
+    "City": "SADANGA",
+    "Region_Id": "14",
+    "Province_Id": "1444",
+    "City_Id": "144408"
+  },
+  {
+    "City": "SAGADA",
+    "Region_Id": "14",
+    "Province_Id": "1444",
+    "City_Id": "144409"
+  },
+  {
+    "City": "TADIAN",
+    "Region_Id": "14",
+    "Province_Id": "1444",
+    "City_Id": "144410"
+  },
+  {
+    "City": "CALANASAN (BAYAG)",
+    "Region_Id": "14",
+    "Province_Id": "1481",
+    "City_Id": "148101"
+  },
+  {
+    "City": "CONNER",
+    "Region_Id": "14",
+    "Province_Id": "1481",
+    "City_Id": "148102"
+  },
+  {
+    "City": "FLORA",
+    "Region_Id": "14",
+    "Province_Id": "1481",
+    "City_Id": "148103"
+  },
+  {
+    "City": "KABUGAO (Capital)",
+    "Region_Id": "14",
+    "Province_Id": "1481",
+    "City_Id": "148104"
+  },
+  {
+    "City": "LUNA",
+    "Region_Id": "14",
+    "Province_Id": "1481",
+    "City_Id": "148105"
+  },
+  {
+    "City": "PUDTOL",
+    "Region_Id": "14",
+    "Province_Id": "1481",
+    "City_Id": "148106"
+  },
+  {
+    "City": "SANTA MARCELA",
+    "Region_Id": "14",
+    "Province_Id": "1481",
+    "City_Id": "148107"
+  },
+  {
+    "City": "CITY OF LAMITAN",
+    "Region_Id": "15",
+    "Province_Id": "1507",
+    "City_Id": "150702"
+  },
+  {
+    "City": "LANTAWAN",
+    "Region_Id": "15",
+    "Province_Id": "1507",
+    "City_Id": "150703"
+  },
+  {
+    "City": "MALUSO",
+    "Region_Id": "15",
+    "Province_Id": "1507",
+    "City_Id": "150704"
+  },
+  {
+    "City": "SUMISIP",
+    "Region_Id": "15",
+    "Province_Id": "1507",
+    "City_Id": "150705"
+  },
+  {
+    "City": "TIPO-TIPO",
+    "Region_Id": "15",
+    "Province_Id": "1507",
+    "City_Id": "150706"
+  },
+  {
+    "City": "TUBURAN",
+    "Region_Id": "15",
+    "Province_Id": "1507",
+    "City_Id": "150707"
+  },
+  {
+    "City": "AKBAR",
+    "Region_Id": "15",
+    "Province_Id": "1507",
+    "City_Id": "150708"
+  },
+  {
+    "City": "AL-BARKA",
+    "Region_Id": "15",
+    "Province_Id": "1507",
+    "City_Id": "150709"
+  },
+  {
+    "City": "HADJI MOHAMMAD AJUL",
+    "Region_Id": "15",
+    "Province_Id": "1507",
+    "City_Id": "150710"
+  },
+  {
+    "City": "UNGKAYA PUKAN",
+    "Region_Id": "15",
+    "Province_Id": "1507",
+    "City_Id": "150711"
+  },
+  {
+    "City": "HADJI MUHTAMAD",
+    "Region_Id": "15",
+    "Province_Id": "1507",
+    "City_Id": "150712"
+  },
+  {
+    "City": "TABUAN-LASA",
+    "Region_Id": "15",
+    "Province_Id": "1507",
+    "City_Id": "150713"
+  },
+  {
+    "City": "BACOLOD-KALAWI (BACOLOD GRANDE)",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153601"
+  },
+  {
+    "City": "BALABAGAN",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153602"
+  },
+  {
+    "City": "BALINDONG (WATU)",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153603"
+  },
+  {
+    "City": "BAYANG",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153604"
+  },
+  {
+    "City": "BINIDAYAN",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153605"
+  },
+  {
+    "City": "BUBONG",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153606"
+  },
+  {
+    "City": "BUTIG",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153607"
+  },
+  {
+    "City": "GANASSI",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153609"
+  },
+  {
+    "City": "KAPAI",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153610"
+  },
+  {
+    "City": "LUMBA-BAYABAO (MAGUING)",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153611"
+  },
+  {
+    "City": "LUMBATAN",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153612"
+  },
+  {
+    "City": "MADALUM",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153613"
+  },
+  {
+    "City": "MADAMBA",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153614"
+  },
+  {
+    "City": "MALABANG",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153615"
+  },
+  {
+    "City": "MARANTAO",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153616"
+  },
+  {
+    "City": "MARAWI CITY (Capital)",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153617"
+  },
+  {
+    "City": "MASIU",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153618"
+  },
+  {
+    "City": "MULONDO",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153619"
+  },
+  {
+    "City": "PAGAYAWAN (TATARIKAN)",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153620"
+  },
+  {
+    "City": "PIAGAPO",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153621"
+  },
+  {
+    "City": "POONA BAYABAO (GATA)",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153622"
+  },
+  {
+    "City": "PUALAS",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153623"
+  },
+  {
+    "City": "DITSAAN-RAMAIN",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153624"
+  },
+  {
+    "City": "SAGUIARAN",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153625"
+  },
+  {
+    "City": "TAMPARAN",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153626"
+  },
+  {
+    "City": "TARAKA",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153627"
+  },
+  {
+    "City": "TUBARAN",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153628"
+  },
+  {
+    "City": "TUGAYA",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153629"
+  },
+  {
+    "City": "WAO",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153630"
+  },
+  {
+    "City": "MAROGONG",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153631"
+  },
+  {
+    "City": "CALANOGAS",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153632"
+  },
+  {
+    "City": "BUADIPOSO-BUNTONG",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153633"
+  },
+  {
+    "City": "MAGUING",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153634"
+  },
+  {
+    "City": "PICONG (SULTAN GUMANDER)",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153635"
+  },
+  {
+    "City": "LUMBAYANAGUE",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153636"
+  },
+  {
+    "City": "BUMBARAN",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153637"
+  },
+  {
+    "City": "TAGOLOAN II",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153638"
+  },
+  {
+    "City": "KAPATAGAN",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153639"
+  },
+  {
+    "City": "SULTAN DUMALONDONG",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153640"
+  },
+  {
+    "City": "LUMBACA-UNAYAN",
+    "Region_Id": "15",
+    "Province_Id": "1536",
+    "City_Id": "153641"
+  },
+  {
+    "City": "AMPATUAN",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153801"
+  },
+  {
+    "City": "BULDON",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153802"
+  },
+  {
+    "City": "BULUAN",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153803"
+  },
+  {
+    "City": "DATU PAGLAS",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153805"
+  },
+  {
+    "City": "DATU PIANG",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153806"
+  },
+  {
+    "City": "DATU ODIN SINSUAT (DINAIG)",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153807"
+  },
+  {
+    "City": "SHARIFF AGUAK (MAGANOY) (Capital)",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153808"
+  },
+  {
+    "City": "MATANOG",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153809"
+  },
+  {
+    "City": "PAGALUNGAN",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153810"
+  },
+  {
+    "City": "PARANG",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153811"
+  },
+  {
+    "City": "SULTAN KUDARAT (NULING)",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153812"
+  },
+  {
+    "City": "SULTAN SA BARONGIS (LAMBAYONG)",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153813"
+  },
+  {
+    "City": "KABUNTALAN (TUMBAO)",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153814"
+  },
+  {
+    "City": "UPI",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153815"
+  },
+  {
+    "City": "TALAYAN",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153816"
+  },
+  {
+    "City": "SOUTH UPI",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153817"
+  },
+  {
+    "City": "BARIRA",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153818"
+  },
+  {
+    "City": "GEN. S. K. PENDATUN",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153819"
+  },
+  {
+    "City": "MAMASAPANO",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153820"
+  },
+  {
+    "City": "TALITAY",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153821"
+  },
+  {
+    "City": "PAGAGAWAN",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153822"
+  },
+  {
+    "City": "PAGLAT",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153823"
+  },
+  {
+    "City": "SULTAN MASTURA",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153824"
+  },
+  {
+    "City": "GUINDULUNGAN",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153825"
+  },
+  {
+    "City": "DATU SAUDI-AMPATUAN",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153826"
+  },
+  {
+    "City": "DATU UNSAY",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153827"
+  },
+  {
+    "City": "DATU ABDULLAH SANGKI",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153828"
+  },
+  {
+    "City": "RAJAH BUAYAN",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153829"
+  },
+  {
+    "City": "DATU BLAH T. SINSUAT",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153830"
+  },
+  {
+    "City": "DATU ANGGAL MIDTIMBANG",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153831"
+  },
+  {
+    "City": "MANGUDADATU",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153832"
+  },
+  {
+    "City": "PANDAG",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153833"
+  },
+  {
+    "City": "NORTHERN KABUNTALAN",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153834"
+  },
+  {
+    "City": "DATU HOFFER AMPATUAN",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153835"
+  },
+  {
+    "City": "DATU SALIBO",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153836"
+  },
+  {
+    "City": "SHARIFF SAYDONA MUSTAPHA",
+    "Region_Id": "15",
+    "Province_Id": "1538",
+    "City_Id": "153837"
+  },
+  {
+    "City": "INDANAN",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156601"
+  },
+  {
+    "City": "JOLO (Capital)",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156602"
+  },
+  {
+    "City": "KALINGALAN CALUANG",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156603"
+  },
+  {
+    "City": "LUUK",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156604"
+  },
+  {
+    "City": "MAIMBUNG",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156605"
+  },
+  {
+    "City": "HADJI PANGLIMA TAHIL (MARUNGGAS)",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156606"
+  },
+  {
+    "City": "OLD PANAMAO",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156607"
+  },
+  {
+    "City": "PANGUTARAN",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156608"
+  },
+  {
+    "City": "PARANG",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156609"
+  },
+  {
+    "City": "PATA",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156610"
+  },
+  {
+    "City": "PATIKUL",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156611"
+  },
+  {
+    "City": "SIASI",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156612"
+  },
+  {
+    "City": "TALIPAO",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156613"
+  },
+  {
+    "City": "TAPUL",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156614"
+  },
+  {
+    "City": "TONGKIL",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156615"
+  },
+  {
+    "City": "PANGLIMA ESTINO (NEW PANAMAO)",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156616"
+  },
+  {
+    "City": "LUGUS",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156617"
+  },
+  {
+    "City": "PANDAMI",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156618"
+  },
+  {
+    "City": "OMAR",
+    "Region_Id": "15",
+    "Province_Id": "1566",
+    "City_Id": "156619"
+  },
+  {
+    "City": "PANGLIMA SUGALA (BALIMBING)",
+    "Region_Id": "15",
+    "Province_Id": "1570",
+    "City_Id": "157001"
+  },
+  {
+    "City": "BONGAO (Capital)",
+    "Region_Id": "15",
+    "Province_Id": "1570",
+    "City_Id": "157002"
+  },
+  {
+    "City": "MAPUN (CAGAYAN DE TAWI-TAWI)",
+    "Region_Id": "15",
+    "Province_Id": "1570",
+    "City_Id": "157003"
+  },
+  {
+    "City": "SIMUNUL",
+    "Region_Id": "15",
+    "Province_Id": "1570",
+    "City_Id": "157004"
+  },
+  {
+    "City": "SITANGKAI",
+    "Region_Id": "15",
+    "Province_Id": "1570",
+    "City_Id": "157005"
+  },
+  {
+    "City": "SOUTH UBIAN",
+    "Region_Id": "15",
+    "Province_Id": "1570",
+    "City_Id": "157006"
+  },
+  {
+    "City": "TANDUBAS",
+    "Region_Id": "15",
+    "Province_Id": "1570",
+    "City_Id": "157007"
+  },
+  {
+    "City": "TURTLE ISLANDS",
+    "Region_Id": "15",
+    "Province_Id": "1570",
+    "City_Id": "157008"
+  },
+  {
+    "City": "LANGUYAN",
+    "Region_Id": "15",
+    "Province_Id": "1570",
+    "City_Id": "157009"
+  },
+  {
+    "City": "SAPA-SAPA",
+    "Region_Id": "15",
+    "Province_Id": "1570",
+    "City_Id": "157010"
+  },
+  {
+    "City": "SIBUTU",
+    "Region_Id": "15",
+    "Province_Id": "1570",
+    "City_Id": "157011"
+  },
+  {
+    "City": "BUENAVISTA",
+    "Region_Id": "16",
+    "Province_Id": "1602",
+    "City_Id": "160201"
+  },
+  {
+    "City": "BUTUAN CITY (Capital)",
+    "Region_Id": "16",
+    "Province_Id": "1602",
+    "City_Id": "160202"
+  },
+  {
+    "City": "CITY OF CABADBARAN",
+    "Region_Id": "16",
+    "Province_Id": "1602",
+    "City_Id": "160203"
+  },
+  {
+    "City": "CARMEN",
+    "Region_Id": "16",
+    "Province_Id": "1602",
+    "City_Id": "160204"
+  },
+  {
+    "City": "JABONGA",
+    "Region_Id": "16",
+    "Province_Id": "1602",
+    "City_Id": "160205"
+  },
+  {
+    "City": "KITCHARAO",
+    "Region_Id": "16",
+    "Province_Id": "1602",
+    "City_Id": "160206"
+  },
+  {
+    "City": "LAS NIEVES",
+    "Region_Id": "16",
+    "Province_Id": "1602",
+    "City_Id": "160207"
+  },
+  {
+    "City": "MAGALLANES",
+    "Region_Id": "16",
+    "Province_Id": "1602",
+    "City_Id": "160208"
+  },
+  {
+    "City": "NASIPIT",
+    "Region_Id": "16",
+    "Province_Id": "1602",
+    "City_Id": "160209"
+  },
+  {
+    "City": "SANTIAGO",
+    "Region_Id": "16",
+    "Province_Id": "1602",
+    "City_Id": "160210"
+  },
+  {
+    "City": "TUBAY",
+    "Region_Id": "16",
+    "Province_Id": "1602",
+    "City_Id": "160211"
+  },
+  {
+    "City": "REMEDIOS T. ROMUALDEZ",
+    "Region_Id": "16",
+    "Province_Id": "1602",
+    "City_Id": "160212"
+  },
+  {
+    "City": "CITY OF BAYUGAN",
+    "Region_Id": "16",
+    "Province_Id": "1603",
+    "City_Id": "160301"
+  },
+  {
+    "City": "BUNAWAN",
+    "Region_Id": "16",
+    "Province_Id": "1603",
+    "City_Id": "160302"
+  },
+  {
+    "City": "ESPERANZA",
+    "Region_Id": "16",
+    "Province_Id": "1603",
+    "City_Id": "160303"
+  },
+  {
+    "City": "LA PAZ",
+    "Region_Id": "16",
+    "Province_Id": "1603",
+    "City_Id": "160304"
+  },
+  {
+    "City": "LORETO",
+    "Region_Id": "16",
+    "Province_Id": "1603",
+    "City_Id": "160305"
+  },
+  {
+    "City": "PROSPERIDAD (Capital)",
+    "Region_Id": "16",
+    "Province_Id": "1603",
+    "City_Id": "160306"
+  },
+  {
+    "City": "ROSARIO",
+    "Region_Id": "16",
+    "Province_Id": "1603",
+    "City_Id": "160307"
+  },
+  {
+    "City": "SAN FRANCISCO",
+    "Region_Id": "16",
+    "Province_Id": "1603",
+    "City_Id": "160308"
+  },
+  {
+    "City": "SAN LUIS",
+    "Region_Id": "16",
+    "Province_Id": "1603",
+    "City_Id": "160309"
+  },
+  {
+    "City": "SANTA JOSEFA",
+    "Region_Id": "16",
+    "Province_Id": "1603",
+    "City_Id": "160310"
+  },
+  {
+    "City": "TALACOGON",
+    "Region_Id": "16",
+    "Province_Id": "1603",
+    "City_Id": "160311"
+  },
+  {
+    "City": "TRENTO",
+    "Region_Id": "16",
+    "Province_Id": "1603",
+    "City_Id": "160312"
+  },
+  {
+    "City": "VERUELA",
+    "Region_Id": "16",
+    "Province_Id": "1603",
+    "City_Id": "160313"
+  },
+  {
+    "City": "SIBAGAT",
+    "Region_Id": "16",
+    "Province_Id": "1603",
+    "City_Id": "160314"
+  },
+  {
+    "City": "ALEGRIA",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166701"
+  },
+  {
+    "City": "BACUAG",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166702"
+  },
+  {
+    "City": "BURGOS",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166704"
+  },
+  {
+    "City": "CLAVER",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166706"
+  },
+  {
+    "City": "DAPA",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166707"
+  },
+  {
+    "City": "DEL CARMEN",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166708"
+  },
+  {
+    "City": "GENERAL LUNA",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166710"
+  },
+  {
+    "City": "GIGAQUIT",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166711"
+  },
+  {
+    "City": "MAINIT",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166714"
+  },
+  {
+    "City": "MALIMONO",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166715"
+  },
+  {
+    "City": "PILAR",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166716"
+  },
+  {
+    "City": "PLACER",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166717"
+  },
+  {
+    "City": "SAN BENITO",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166718"
+  },
+  {
+    "City": "SAN FRANCISCO (ANAO-AON)",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166719"
+  },
+  {
+    "City": "SAN ISIDRO",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166720"
+  },
+  {
+    "City": "SANTA MONICA (SAPAO)",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166721"
+  },
+  {
+    "City": "SISON",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166722"
+  },
+  {
+    "City": "SOCORRO",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166723"
+  },
+  {
+    "City": "SURIGAO CITY (Capital)",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166724"
+  },
+  {
+    "City": "TAGANA-AN",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166725"
+  },
+  {
+    "City": "TUBOD",
+    "Region_Id": "16",
+    "Province_Id": "1667",
+    "City_Id": "166727"
+  },
+  {
+    "City": "BAROBO",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166801"
+  },
+  {
+    "City": "BAYABAS",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166802"
+  },
+  {
+    "City": "CITY OF BISLIG",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166803"
+  },
+  {
+    "City": "CAGWAIT",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166804"
+  },
+  {
+    "City": "CANTILAN",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166805"
+  },
+  {
+    "City": "CARMEN",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166806"
+  },
+  {
+    "City": "CARRASCAL",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166807"
+  },
+  {
+    "City": "CORTES",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166808"
+  },
+  {
+    "City": "HINATUAN",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166809"
+  },
+  {
+    "City": "LANUZA",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166810"
+  },
+  {
+    "City": "LIANGA",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166811"
+  },
+  {
+    "City": "LINGIG",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166812"
+  },
+  {
+    "City": "MADRID",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166813"
+  },
+  {
+    "City": "MARIHATAG",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166814"
+  },
+  {
+    "City": "SAN AGUSTIN",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166815"
+  },
+  {
+    "City": "SAN MIGUEL",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166816"
+  },
+  {
+    "City": "TAGBINA",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166817"
+  },
+  {
+    "City": "TAGO",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166818"
+  },
+  {
+    "City": "CITY OF TANDAG (Capital)",
+    "Region_Id": "16",
+    "Province_Id": "1668",
+    "City_Id": "166819"
+  },
+  {
+    "City": "BASILISA (RIZAL)",
+    "Region_Id": "16",
+    "Province_Id": "1685",
+    "City_Id": "168501"
+  },
+  {
+    "City": "CAGDIANAO",
+    "Region_Id": "16",
+    "Province_Id": "1685",
+    "City_Id": "168502"
+  },
+  {
+    "City": "DINAGAT",
+    "Region_Id": "16",
+    "Province_Id": "1685",
+    "City_Id": "168503"
+  },
+  {
+    "City": "LIBJO (ALBOR)",
+    "Region_Id": "16",
+    "Province_Id": "1685",
+    "City_Id": "168504"
+  },
+  {
+    "City": "LORETO",
+    "Region_Id": "16",
+    "Province_Id": "1685",
+    "City_Id": "168505"
+  },
+  {
+    "City": "SAN JOSE (Capital)",
+    "Region_Id": "16",
+    "Province_Id": "1685",
+    "City_Id": "168506"
+  },
+  {
+    "City": "TUBAJON",
+    "Region_Id": "16",
+    "Province_Id": "1685",
+    "City_Id": "168507"
+  }
+]
