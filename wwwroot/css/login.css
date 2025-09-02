@@ -24,6 +24,7 @@
     background: #fff;
     box-shadow: var(--shadow);
     padding: 50px;
+    padding-top: 25px;
     border-radius: 10px;
 }
 .login-card form{
