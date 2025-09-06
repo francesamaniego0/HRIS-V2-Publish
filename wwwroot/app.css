@@ -246,3 +246,8 @@ code {
 fluent-dialog[b-dsxskpj5rr]::part(control){
     padding: 0 !important;
 }
+.column-header[col-index="7"] {
+    background: #fbfbfb !important;
+    position: sticky !important;
+    right: 0 !important;
+}
