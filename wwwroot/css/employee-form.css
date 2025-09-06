@@ -156,20 +156,21 @@
 	
 }
 .fluent-wizard[position="top"] > ol > li[status="current"]:not(:last-child)[b-a5o5s1yurv]:after {
-	content: "";
+	content: "" !important;
 	display: block !important;
 	top: 0 !important;
 	left: unset !important;
 	width: 50px !important;
 	height: 0 !important;
-	border-top: 26px solid transparent;
-	border-bottom: 26px solid transparent;
-	border-left: 40px solid var(--primary);
+	border-top: 26px solid transparent !important;
+	border-bottom: 26px solid transparent !important;
+	border-left: 40px solid var(--primary) !important;
 	border-radius: 10px !important;
 	/* Positioning */
-	position: absolute;
+	position: absolute !important;
 	top: .1px !important;
 	right: -70px !important; /* adjust based on width */
+	box-sizing: unset !important;
 }
 .ValidationSummary {
 	color: red;
@@ -199,4 +200,7 @@
 }
 .document-card-holder .card-header {
 	margin-bottom: 15px;
+}
+.fluent-wizard-icon svg{
+	vertical-align: unset !important;	
 }

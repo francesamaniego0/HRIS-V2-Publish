@@ -50,8 +50,10 @@
     font-size: 1.3rem;
 }
 .form-control {
-    display: flex;
+    display: flex !important;
+    border: none !important;
     flex-direction: column;
+    padding: 0 !important; 
     text-align: left;
     width: 100%
 }
